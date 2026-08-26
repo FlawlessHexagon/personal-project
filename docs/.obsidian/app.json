@@ -1,5 +1,6 @@
 {
   "propertiesInDocument": "visible",
   "showLineNumber": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "readableLineLength": false
 }

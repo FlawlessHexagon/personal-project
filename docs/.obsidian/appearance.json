@@ -4,7 +4,7 @@
   "cssTheme": "Catppuccin",
   "accentColor": "",
   "interfaceFontFamily": "Inter Variable",
-  "textFontFamily": "Inter Variable",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "theme": "system",
   "showRibbon": true
