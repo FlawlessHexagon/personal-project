@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "common": {
+    "language": "en",
+    "defaultZoomPercent": 120,
+    "largeFileWarningMb": 24
+  },
+  "docx": {
+    "defaultFitWidth": false,
+    "showOutlineByDefault": true,
+    "enableImagePreview": true
+  },
+  "pptx": {
+    "defaultFitWindow": true,
+    "showNavigationByDefault": true,
+    "showNotesByDefault": false
+  },
+  "xlsx": {
+    "defaultFitWidth": true
+  },
+  "readingStates": [
+    {
+      "path": "references/school-guidance/g10-pp-initial-ideas.docx",
+      "mtime": 1787734832152,
+      "format": "docx",
+      "lastAccessed": 137,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1.2000000000000002,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    }
+  ]
+}

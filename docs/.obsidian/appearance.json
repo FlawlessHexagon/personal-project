@@ -1,0 +1,11 @@
+{
+  "nativeMenus": true,
+  "translucency": false,
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "interfaceFontFamily": "Inter Variable",
+  "textFontFamily": "Inter Variable",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "theme": "system",
+  "showRibbon": true
+}
