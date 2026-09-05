@@ -1,4 +1,4 @@
-# Project Architecture
+# Project Architecture Guidelines
 
 ## Repository Architecture
 
