@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "case_type": "failure",
+  "record_count": 2,
+  "records": [
+    {
+      "id": "01",
+      "slug": "video-games-violence",
+      "title": "Video games and violence awareness campaign",
+      "case_type": "failure",
+      "classification": "Lower-achievement case (official score 10/24; not a total failure).",
+      "topic": null,
+      "evidence_status": "Lower-achievement case (official score 10/24; not a total failure).",
+      "project_summary": "An awareness campaign and video investigating whether violent video games cause aggression, intended to include posters, an in-school trial, and a video product.",
+      "goal": null,
+      "product": "An awareness campaign and video investigating whether violent video games cause aggression, intended to include posters, an in-school trial, and a video product.",
+      "report_path": "pp-failure-case/01-video-games-violence/01-report.md",
+      "failure_evidence": [
+        "The student failed product success criteria: the video lacked depth to shift opinions and missed aesthetic quality goals. Process failures included losing interview footage due to technical errors, procrastinating, and rushing report writing into the final week."
+      ],
+      "likely_causes": [
+        "Source facts: The student acknowledged poor time management, unrecorded interviews requiring re-recording, struggling to form a solid research question, and cramming the report during final eAssessments.",
+        "Inference: Ill-defined success criteria and lack of interim milestones caused evaluation and reflection scores to suffer, resulting in 10/24."
+      ],
+      "prevention_lesson": "Establish measurable criteria beyond length, test recording equipment early, and enforce firm phase deadlines to avoid deferring report writing to the last week.",
+      "sources": [
+        {
+          "label": "Maggie Secondary School MYP Resources",
+          "url": "https://sites.google.com/sd67.bc.ca/maggiepersonalproject/downloadable-resources"
+        },
+        {
+          "label": "Exemplar Report",
+          "url": "https://drive.google.com/file/d/1rkF_M-Pw6nqwr66titHutMnFm2jJ9rzS/preview"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "drone-racing-budget-overrun",
+      "title": "First-person view racing drone build",
+      "case_type": "failure",
+      "classification": "Partial success-criteria failure (no public score reported).",
+      "topic": null,
+      "evidence_status": "Partial success-criteria failure (no public score reported).",
+      "project_summary": "An engineering capstone to construct an FPV racing quadcopter, learn high-speed piloting, and enter a competitive league event.",
+      "goal": null,
+      "product": "An engineering capstone to construct an FPV racing quadcopter, learn high-speed piloting, and enter a competitive league event.",
+      "report_path": "pp-failure-case/02-drone-racing-budget-overrun/02-report.md",
+      "failure_evidence": [
+        "The project suffered a 6x budget overrun, escalating from an initial $250 criterion to roughly $1,500 in total expenditures to fulfill racing requirements. Furthermore, the student documented process journal and time management deficits, noting irregular journaling, omitted reflection details, and compromised scheduling."
+      ],
+      "likely_causes": [
+        "Source facts: The student set a $250 budget without prior domain knowledge, quickly discovering racing-grade hardware, FPV gear, tools, and crash repairs required ~$1,500. The report admits neglecting the process journal and time management for MYP requirements.",
+        "Inference: Scope optimism and failure to research total cost of ownership led to abandoning the financial constraint to salvage the functional product."
+      ],
+      "prevention_lesson": "Conduct upfront component and tooling cost audits for hardware projects, build financial buffers into criteria, and treat process documentation as a core weekly deliverable rather than an afterthought.",
+      "sources": [
+        {
+          "label": "Preshil MYP Personal Project Report",
+          "url": "https://preshilmyppersonalproject.weebly.com/uploads/5/1/9/5/51956671/drone_racing_myp_personal_project_report_1_.pdf"
+        }
+      ]
+    }
+  ]
+}

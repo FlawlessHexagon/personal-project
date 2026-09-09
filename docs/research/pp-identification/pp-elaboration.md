@@ -48,15 +48,15 @@ An independent, student-led inquiry in which you pursue a personal interest, ach
 ### Criterion
 
 1. Criterion A: Planning
-   - States a learning goal and explains the connection between personal interests and that goal.
-   - States the intended product and presents multiple appropriate, detailed success criteria.
-   - Presents a detailed plan covering the product and all associated success criteria.
-2. Criterion B: Applying Skills
-   - Explains how ATL skills helped achieve the learning goal, supported by detailed examples or evidence.
-   - Explains how ATL skills helped achieve the product, supported by detailed examples or evidence.
-3. Criterion C: Reflecting
-   - Explains the project’s impact on themselves or their learning.
-   - Evaluates the product against the success criteria, fully supported by specific evidence or detailed examples.
+   - States a **learning goal** and explains the connection between **personal interests** and that goal.
+   - States the intended product and presents multiple appropriate, detailed **success criteria**.
+   - Presents a detailed **plan** covering the product and all associated success criteria.
+1. Criterion B: Applying Skills
+   - Explains how **ATL skills** helped achieve the learning goal, supported by detailed examples or evidence.
+   - Explains how **ATL skills** helped achieve the product, supported by detailed examples or evidence.
+1. Criterion C: Reflecting
+   - Explains the project’s **impact on themselves or their learning**.
+   - **Evaluates** the product against the success criteria, fully supported by specific evidence or detailed examples.
 
 ## f) Report Specifications
 

@@ -1,0 +1,1655 @@
+{
+  "schema_version": 1,
+  "case_type": "success",
+  "record_count": 64,
+  "records": [
+    {
+      "id": "01",
+      "slug": "myp-56-app",
+      "title": "MYP 56 App",
+      "case_type": "success",
+      "classification": "Topic: Educational technology / mobile application Evidence status: Project-specific public App Store release; showcase-only",
+      "topic": "Educational technology / mobile application",
+      "evidence_status": "Project-specific public App Store release; showcase-only",
+      "project_summary": "Goal: Build an offline-first iOS preparation and productivity application tailored specifically to IB MYP students. Product: MYP 56, an iOS mobile application featuring practice exam papers and a Personal Project companion process journal tagged to MYP criteria.",
+      "goal": "Build an offline-first iOS preparation and productivity application tailored specifically to IB MYP students.",
+      "product": "MYP 56, an iOS mobile application featuring practice exam papers and a Personal Project companion process journal tagged to MYP criteria.",
+      "report_path": "pp-success-case/01-myp-56-app/01-report.md",
+      "success_evidence": [
+        "Selection and publication on the Apple App Store is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Designing specifically around MYP assessment structures provides immediate utility to peers and yields clear, criterion-aligned product criteria.",
+      "sources": [
+        {
+          "label": "Apple App Store Product Listing",
+          "url": "https://apps.apple.com/gh/app/myp-56/id6788518983"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "unravel-cognitive-app",
+      "title": "Unravel Cognitive Skills App",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / mobile healthcare & education Evidence status: School prodigy profile documenting student personal project; showcase-only",
+      "topic": "Software engineering / mobile healthcare & education",
+      "evidence_status": "School prodigy profile documenting student personal project; showcase-only",
+      "project_summary": "Goal: Develop a digital application to train and enhance cognitive skills in young children. Product: Unravel, a mobile application designed for cognitive enhancement with documented distribution.",
+      "goal": "Develop a digital application to train and enhance cognitive skills in young children.",
+      "product": "Unravel, a mobile application designed for cognitive enhancement with documented distribution.",
+      "report_path": "pp-success-case/02-unravel-cognitive-app/02-report.md",
+      "success_evidence": [
+        "Public showcase selection and student profile publication by Pathways School Gurgaon are the primary success signals, reporting over 600 downloads; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Focusing on a concrete developmental problem enables meaningful external user testing and tangible post-launch adoption metrics.",
+      "sources": [
+        {
+          "label": "Pathways School Gurgaon Student Prodigy Profile",
+          "url": "https://www.pathwaysgurgaon.edu.in/prodigies/sarthakahuja"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "sodajar-puzzle-game",
+      "title": "SodaJar Puzzle Game",
+      "case_type": "success",
+      "classification": "Topic: Game development / desktop software Evidence status: Public itch.io game release explicitly tagged as MYP Personal Project final product; showcase-only",
+      "topic": "Game development / desktop software",
+      "evidence_status": "Public itch.io game release explicitly tagged as MYP Personal Project final product; showcase-only",
+      "project_summary": "Goal: Learn desktop game programming and release a complete, functional puzzle game. Product: A released downloadable puzzle game distributed for Windows and macOS platforms.",
+      "goal": "Learn desktop game programming and release a complete, functional puzzle game.",
+      "product": "A released downloadable puzzle game distributed for Windows and macOS platforms.",
+      "report_path": "pp-success-case/03-sodajar-puzzle-game/03-report.md",
+      "success_evidence": [
+        "Selection and publication on itch.io is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Packaging and delivering cross-platform executables demonstrates complete execution of Criterion C product completion goals.",
+      "sources": [
+        {
+          "label": "itch.io Game Release Page",
+          "url": "https://sodajar.itch.io/personal-project"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "custom-fdm-3d-printer",
+      "title": "Custom FDM 3D Printer",
+      "case_type": "success",
+      "classification": "Topic: Hardware engineering / embedded systems Evidence status: Public GitHub developer profile documenting IB MYP Personal Project; showcase-only",
+      "topic": "Hardware engineering / embedded systems",
+      "evidence_status": "Public GitHub developer profile documenting IB MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Design, calibrate, and build a functioning custom FDM 3D printer from physical and electronic parts. Product: A completed, operational custom FDM 3D printer.",
+      "goal": "Design, calibrate, and build a functioning custom FDM 3D printer from physical and electronic parts.",
+      "product": "A completed, operational custom FDM 3D printer.",
+      "report_path": "pp-success-case/04-custom-fdm-3d-printer/04-report.md",
+      "success_evidence": [
+        "Completion and public documentation on GitHub are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Physical fabrication projects require modular planning to coordinate mechanical framing, electrical wiring, and firmware configuration.",
+      "sources": [
+        {
+          "label": "GitHub Profile Documentation",
+          "url": "https://github.com/R1B0PR07008"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "cogni-os-accessibility",
+      "title": "Cogni+OS Autism Interface Prototype",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / assistive technology & human-computer interaction Evidence status: Public GitHub repository documenting MYP Personal Project with expert collaboration; showcase-only",
+      "topic": "Software engineering / assistive technology & human-computer interaction",
+      "evidence_status": "Public GitHub repository documenting MYP Personal Project with expert collaboration; showcase-only",
+      "project_summary": "Goal: Design and build an operating system interface prototype to help children with Level 2 Autism Spectrum Disorder use desktop systems while minimizing sensory hypersensitivity. Product: A functional Swift-based prototype executable for macOS with tailored visual ergonomics, developed in consultation with university and clinical experts.",
+      "goal": "Design and build an operating system interface prototype to help children with Level 2 Autism Spectrum Disorder use desktop systems while minimizing sensory hypersensitivity.",
+      "product": "A functional Swift-based prototype executable for macOS with tailored visual ergonomics, developed in consultation with university and clinical experts.",
+      "report_path": "pp-success-case/05-cogni-os-accessibility/05-report.md",
+      "success_evidence": [
+        "Public code release and expert consultation documentation are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Consulting domain specialists (behavior analysts and professors) transforms technical software into rigorously justified assistive technology.",
+      "sources": [
+        {
+          "label": "GitHub Repository (rawsab/cogni-os)",
+          "url": "https://github.com/rawsab/cogni-os"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "shroom-boom-rust-game",
+      "title": "Shroom Boom Rust Game",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / game development in Rust Evidence status: Public GitHub repository explicitly identifying MYP Personal Project game; showcase-only",
+      "topic": "Software engineering / game development in Rust",
+      "evidence_status": "Public GitHub repository explicitly identifying MYP Personal Project game; showcase-only",
+      "project_summary": "Goal: Master the Rust programming language and the Bevy ECS game engine by creating a complete multi-level action game. Product: A 12-level 2D game built in Rust using Bevy, featuring enemy AI, an upgrade shop system, custom pixel art, and score tracking.",
+      "goal": "Master the Rust programming language and the Bevy ECS game engine by creating a complete multi-level action game.",
+      "product": "A 12-level 2D game built in Rust using Bevy, featuring enemy AI, an upgrade shop system, custom pixel art, and score tracking.",
+      "report_path": "pp-success-case/06-shroom-boom-rust-game/06-report.md",
+      "success_evidence": [
+        "Public open-source release and playable game implementation are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Tackling a systems language like Rust for a personal project provides deep Criterion B skill growth when scoped to an achievable game loop.",
+      "sources": [
+        {
+          "label": "GitHub Repository (tonyz74/shroom_boom)",
+          "url": "https://github.com/tonyz74/shroom_boom"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "autonomous-ai-drone",
+      "title": "Autonomous AI Posture-Controlled Drone",
+      "case_type": "success",
+      "classification": "Topic: Machine learning / robotics & computer vision Evidence status: Public project website and process journal documenting MYP Personal Project; showcase-only",
+      "topic": "Machine learning / robotics & computer vision",
+      "evidence_status": "Public project website and process journal documenting MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Master machine learning and neural network mathematics to build a drone capable of posture and gesture recognition for flight control. Product: A functional quadcopter drone integrated with CNN and RNN machine learning models trained on collected posture datasets.",
+      "goal": "Master machine learning and neural network mathematics to build a drone capable of posture and gesture recognition for flight control.",
+      "product": "A functional quadcopter drone integrated with CNN and RNN machine learning models trained on collected posture datasets.",
+      "report_path": "pp-success-case/07-autonomous-ai-drone/07-report.md",
+      "success_evidence": [
+        "Detailed process journal publication and hardware-software integration milestones are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Maintaining an online process journal tracking mathematical theory, model training iterations, and deployment attempts directly satisfies MYP Criterion A and B requirements.",
+      "sources": [
+        {
+          "label": "Personal Project Site & Journal",
+          "url": "https://jeremyzxi.github.io/Personal_Project/"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "gorilla-speed-typing-test",
+      "title": "Gorilla Speed Typing Platform",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / web development & algorithms Evidence status: Public GitHub repository documenting MYP Personal Project web application; showcase-only",
+      "topic": "Software engineering / web development & algorithms",
+      "evidence_status": "Public GitHub repository documenting MYP Personal Project web application; showcase-only",
+      "project_summary": "Goal: Learn React and Next.js to develop a high-performance web platform measuring typing speed and clicking metrics. Product: Gorilla Speed, a full Next.js web application implementing randomized word generation and real-time CPS/WPM calculation algorithms.",
+      "goal": "Learn React and Next.js to develop a high-performance web platform measuring typing speed and clicking metrics.",
+      "product": "Gorilla Speed, a full Next.js web application implementing randomized word generation and real-time CPS/WPM calculation algorithms.",
+      "report_path": "pp-success-case/08-gorilla-speed-typing-test/08-report.md",
+      "success_evidence": [
+        "Public web application code repository and functional algorithm deployment are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Clear mathematical formulation of product metrics (e.g. WPM and CPS formulas) simplifies user interface testing and verification.",
+      "sources": [
+        {
+          "label": "GitHub Repository (advayc/gorilla-speed)",
+          "url": "https://github.com/advayc/gorilla-speed"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "bhavya-chess-catalogue",
+      "title": "Bhavya Interactive Chess Catalogue",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / educational web platform Evidence status: Public GitHub repository documenting MYP Personal Project web application; showcase-only",
+      "topic": "Software engineering / educational web platform",
+      "evidence_status": "Public GitHub repository documenting MYP Personal Project web application; showcase-only",
+      "project_summary": "Goal: Learn front-end web development, responsive CSS, and DOM scripting to build an interactive educational resource for chess learners. Product: A multi-page responsive web resource featuring rules explanation, custom Blender 3D chess graphics, and interactive opening move trainers.",
+      "goal": "Learn front-end web development, responsive CSS, and DOM scripting to build an interactive educational resource for chess learners.",
+      "product": "A multi-page responsive web resource featuring rules explanation, custom Blender 3D chess graphics, and interactive opening move trainers.",
+      "report_path": "pp-success-case/09-bhavya-chess-catalogue/09-report.md",
+      "success_evidence": [
+        "Open-source codebase completion and documentation are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Breaking complex domains (like chess openings) into dedicated JavaScript-driven interactive trainers makes educational web projects highly engaging.",
+      "sources": [
+        {
+          "label": "GitHub Repository (BhavyaP45/chess-catalogue)",
+          "url": "https://github.com/BhavyaP45/chess-catalogue"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "ucc-textbook-exchange",
+      "title": "UCC Textbook Exchange",
+      "case_type": "success",
+      "classification": "Topic: School organizing / student marketplace platform Evidence status: Public GitHub repository explicitly created for MYP Personal Project; showcase-only",
+      "topic": "School organizing / student marketplace platform",
+      "evidence_status": "Public GitHub repository explicitly created for MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Build a web-based community exchange platform to help Upper Canada College students buy, sell, and reuse course textbooks. Product: A React web application providing a centralized textbook listing and trade directory for students.",
+      "goal": "Build a web-based community exchange platform to help Upper Canada College students buy, sell, and reuse course textbooks.",
+      "product": "A React web application providing a centralized textbook listing and trade directory for students.",
+      "report_path": "pp-success-case/10-ucc-textbook-exchange/10-report.md",
+      "success_evidence": [
+        "Public repository release addressing a tangible school peer problem is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Addressing practical inefficiencies in a student body generates instant user empathy and practical functional requirements.",
+      "sources": [
+        {
+          "label": "GitHub Repository (IbrahimFadel/ucc-textbook-exchange)",
+          "url": "https://github.com/IbrahimFadel/ucc-textbook-exchange"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "librehunt-distro-selector",
+      "title": "LibreHunt Linux Distro Selector",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / open-source utility Evidence status: Public GitHub repository documenting MYP Personal Project featured on major tech media; showcase-only",
+      "topic": "Software engineering / open-source utility",
+      "evidence_status": "Public GitHub repository documenting MYP Personal Project featured on major tech media; showcase-only",
+      "project_summary": "Goal: Design a client-side web utility to guide newcomers in selecting an appropriate Linux distribution based on their hardware and preferences. Product: LibreHunt, a client-side JavaScript recommendation engine that filters and presents Linux distributions.",
+      "goal": "Design a client-side web utility to guide newcomers in selecting an appropriate Linux distribution based on their hardware and preferences.",
+      "product": "LibreHunt, a client-side JavaScript recommendation engine that filters and presents Linux distributions.",
+      "report_path": "pp-success-case/11-librehunt-distro-selector/11-report.md",
+      "success_evidence": [
+        "Public deployment and external tech media recognition (featured on Forbes) are the primary success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Creating tools that solve real decision hurdles in technical communities can achieve genuine organic adoption far beyond school walls.",
+      "sources": [
+        {
+          "label": "GitHub Repository (aviwad/librehunt)",
+          "url": "https://github.com/aviwad/librehunt"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "myp-grade-calculator",
+      "title": "MYP Grade Calculator",
+      "case_type": "success",
+      "classification": "Topic: School organizing / educational utility software Evidence status: Public GitHub repository documenting MYP Personal Project tool; showcase-only",
+      "topic": "School organizing / educational utility software",
+      "evidence_status": "Public GitHub repository documenting MYP Personal Project tool; showcase-only",
+      "project_summary": "Goal: Create a software tool to help Middle Years Programme students calculate and forecast their overall MYP criterion and subject scores. Product: A desktop software tool implementing MYP assessment boundary logic and grade computation tables.",
+      "goal": "Create a software tool to help Middle Years Programme students calculate and forecast their overall MYP criterion and subject scores.",
+      "product": "A desktop software tool implementing MYP assessment boundary logic and grade computation tables.",
+      "report_path": "pp-success-case/12-myp-grade-calculator/12-report.md",
+      "success_evidence": [
+        "Public code release and software implementation are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Codifying the rules of the MYP curriculum into software ensures deep alignment between the student creator and their academic environment.",
+      "sources": [
+        {
+          "label": "GitHub Repository (Senanur2/MYPGradeCalculator)",
+          "url": "https://github.com/Senanur2/MYPGradeCalculator"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "roze-voice-assistant",
+      "title": "ROZE Voice Assistant",
+      "case_type": "success",
+      "classification": "Topic: Artificial intelligence / speech recognition & automation Evidence status: Public GitHub repository documenting 2018 IB MYP Personal Project; showcase-only",
+      "topic": "Artificial intelligence / speech recognition & automation",
+      "evidence_status": "Public GitHub repository documenting 2018 IB MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Learn Python, audio processing, and automated task execution by developing a desktop voice assistant. Product: ROZE, a Python voice assistant capable of speech recognition, text-to-speech feedback, system commands, and web automation.",
+      "goal": "Learn Python, audio processing, and automated task execution by developing a desktop voice assistant.",
+      "product": "ROZE, a Python voice assistant capable of speech recognition, text-to-speech feedback, system commands, and web automation.",
+      "report_path": "pp-success-case/13-roze-voice-assistant/13-report.md",
+      "success_evidence": [
+        "Completed open-source Python codebase publication is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Building conversational interfaces teaches robust input handling, external API integration, and user error tolerance.",
+      "sources": [
+        {
+          "label": "GitHub Repository (KartavyaSharma/ROZE-Voice-Assistant)",
+          "url": "https://github.com/KartavyaSharma/ROZE-Voice-Assistant"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "revealtheingredient-cv-app",
+      "title": "RevealTheIngredient Computer Vision App",
+      "case_type": "success",
+      "classification": "Topic: Machine learning & computer vision / mobile health application Evidence status: Official Northville High School MYP showcase spotlight; showcase-only",
+      "topic": "Machine learning & computer vision / mobile health application",
+      "evidence_status": "Official Northville High School MYP showcase spotlight; showcase-only",
+      "project_summary": "Goal: Build an iOS mobile application using computer vision and optical character recognition to detect hazardous ingredients on household chemical packaging. Product: RevealTheIngredient, a Swift/Xcode iOS app utilizing computer vision OCR and a toxicology database, achieving over 96% accuracy across 150 test labels.",
+      "goal": "Build an iOS mobile application using computer vision and optical character recognition to detect hazardous ingredients on household chemical packaging.",
+      "product": "RevealTheIngredient, a Swift/Xcode iOS app utilizing computer vision OCR and a toxicology database, achieving over 96% accuracy across 150 test labels.",
+      "report_path": "pp-success-case/14-revealtheingredient-cv-app/14-report.md",
+      "success_evidence": [
+        "Showcase selection and publication on Northville High School MYP spotlight with quantitative test data are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Conducting controlled quantitative accuracy tests (e.g. 100 digital vs 50 physical trials) provides objective, indisputable Criterion C evaluation data.",
+      "sources": [
+        {
+          "label": "Northville High School MYP Spotlight",
+          "url": "https://sites.google.com/northvilleschools.org/myppersonalproject/home"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "charity-chess-tournament",
+      "title": "Northville Charity Chess Tournament",
+      "case_type": "success",
+      "classification": "Topic: School and club organizing / philanthropic event management Evidence status: Official Northville High School MYP showcase spotlight; showcase-only",
+      "topic": "School and club organizing / philanthropic event management",
+      "evidence_status": "Official Northville High School MYP showcase spotlight; showcase-only",
+      "project_summary": "Goal: Organize and host a scholastic chess tournament to build regional community engagement and raise charitable funds for women in chess. Product: The inaugural Northville Charity Chess Tournament, convening approximately thirty scholastic players at the district library and raising funds for the USCF Youth Scholastic Women in Chess Initiative.",
+      "goal": "Organize and host a scholastic chess tournament to build regional community engagement and raise charitable funds for women in chess.",
+      "product": "The inaugural Northville Charity Chess Tournament, convening approximately thirty scholastic players at the district library and raising funds for the USCF Youth Scholastic Women in Chess Initiative.",
+      "report_path": "pp-success-case/15-charity-chess-tournament/15-report.md",
+      "success_evidence": [
+        "Featured showcase publication on the school MYP portal documenting successful event execution is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Club and community events succeed when logistics, external venue partnerships, and charitable fundraising are planned with structured milestones.",
+      "sources": [
+        {
+          "label": "Northville High School MYP Spotlight",
+          "url": "https://sites.google.com/northvilleschools.org/myppersonalproject/home"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "custom-water-cooled-pc",
+      "title": "Custom Water-Cooled Extreme PC",
+      "case_type": "success",
+      "classification": "Topic: Computer hardware engineering / thermal systems design Evidence status: Official Northville High School MYP showcase spotlight; showcase-only",
+      "topic": "Computer hardware engineering / thermal systems design",
+      "evidence_status": "Official Northville High School MYP showcase spotlight; showcase-only",
+      "project_summary": "Goal: Master advanced computer electronics, high-stress hardware assembly, and thermodynamic cooling loops by building an extreme performance PC. Product: A custom-engineered, wall-mounted, water-cooled personal computer with a hand-designed liquid cooling loop for high-stress rendering.",
+      "goal": "Master advanced computer electronics, high-stress hardware assembly, and thermodynamic cooling loops by building an extreme performance PC.",
+      "product": "A custom-engineered, wall-mounted, water-cooled personal computer with a hand-designed liquid cooling loop for high-stress rendering.",
+      "report_path": "pp-success-case/16-custom-water-cooled-pc/16-report.md",
+      "success_evidence": [
+        "Showcase spotlight feature on the official Northville High School MYP portal is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Complex physical engineering tasks benefit from deep research into component compatibility, custom fabrication, and systematic leak testing.",
+      "sources": [
+        {
+          "label": "Northville High School MYP Spotlight",
+          "url": "https://sites.google.com/northvilleschools.org/myppersonalproject/home"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "slug": "robotic-grip-glove",
+      "title": "Biomechanical Robotic Grip Glove",
+      "case_type": "success",
+      "classification": "Topic: Robotics / biomedical augmentation & hardware Evidence status: Official Northville High School MYP showcase spotlight; showcase-only",
+      "topic": "Robotics / biomedical augmentation & hardware",
+      "evidence_status": "Official Northville High School MYP showcase spotlight; showcase-only",
+      "project_summary": "Goal: Explore human body biomechanical augmentation by engineering a wearable robotic glove that enhances user hand grip strength. Product: A compact wearable robotic glove with mechanical actuators designed to measure and augment human gripping force.",
+      "goal": "Explore human body biomechanical augmentation by engineering a wearable robotic glove that enhances user hand grip strength.",
+      "product": "A compact wearable robotic glove with mechanical actuators designed to measure and augment human gripping force.",
+      "report_path": "pp-success-case/17-robotic-grip-glove/17-report.md",
+      "success_evidence": [
+        "Featured showcase selection on the Northville High School MYP project portal is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Establishing measurable before-and-after physical metrics (grip force with vs without glove) creates clear Criterion C evaluation evidence.",
+      "sources": [
+        {
+          "label": "Northville High School MYP Spotlight",
+          "url": "https://sites.google.com/northvilleschools.org/myppersonalproject/home"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "slug": "nonprofit-data-collection-app",
+      "title": "Pragathi NGO Data Collection App",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & database systems / club and NGO organizing Evidence status: Detailed student project blog documenting completed MYP Personal Project presentation; showcase-only",
+      "topic": "Software engineering & database systems / club and NGO organizing",
+      "evidence_status": "Detailed student project blog documenting completed MYP Personal Project presentation; showcase-only",
+      "project_summary": "Goal: Learn mobile programming in Java and database integration to replace slow paper-based student record collection for an education non-profit. Product: An Android Studio Java application backed by an online cloud database with automated CSV export for analytical reporting.",
+      "goal": "Learn mobile programming in Java and database integration to replace slow paper-based student record collection for an education non-profit.",
+      "product": "An Android Studio Java application backed by an online cloud database with automated CSV export for analytical reporting.",
+      "report_path": "pp-success-case/18-nonprofit-data-collection-app/18-report.md",
+      "success_evidence": [
+        "School presentation completion and detailed public documentation of deployed NGO adoption are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Automating manual paper workflows for an organization provides immediate stakeholder feedback and tangible real-world impact.",
+      "sources": [
+        {
+          "label": "Author Project Blog Post",
+          "url": "https://incharanelogal.home.blog/2017/04/01/myp-personal-project-qa/"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "slug": "python-virtual-assistant",
+      "title": "Accessible Python Virtual Assistant",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / accessibility & Python tooling Evidence status: Student portfolio website documenting completed MYP Personal Project; showcase-only",
+      "topic": "Software engineering / accessibility & Python tooling",
+      "evidence_status": "Student portfolio website documenting completed MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Learn Python programming and software accessibility design by creating a standalone desktop virtual assistant. Product: A Python virtual assistant featuring interactive text and voice games (Magic 8-ball, Lucky 7), synchronized dual voice/text output, and keyboard fallback navigation.",
+      "goal": "Learn Python programming and software accessibility design by creating a standalone desktop virtual assistant.",
+      "product": "A Python virtual assistant featuring interactive text and voice games (Magic 8-ball, Lucky 7), synchronized dual voice/text output, and keyboard fallback navigation.",
+      "report_path": "pp-success-case/19-python-virtual-assistant/19-report.md",
+      "success_evidence": [
+        "Portfolio publication and independent project completion are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Prioritizing accessibility through dual multimodal outputs (spoken audio plus terminal text) strengthens Criterion B technical and design skills.",
+      "sources": [
+        {
+          "label": "Student Portfolio Project Page",
+          "url": "https://shashwatb14.github.io/projects/virtual-assistant.html"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "slug": "find-a-vet-database",
+      "title": "Find-A-Vet Directory & Database",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / web databases & community directory Evidence status: Public GitHub repository with commit audit trail linked to ManageBac; showcase-only",
+      "topic": "Software engineering / web databases & community directory",
+      "evidence_status": "Public GitHub repository with commit audit trail linked to ManageBac; showcase-only",
+      "project_summary": "Goal: Learn full-stack web development using HTML5, CSS3, PHP, and SQL databases to connect local pet owners with certified veterinary care. Product: Find-A-Vet, a structured search directory website querying a relational database of local veterinary clinics.",
+      "goal": "Learn full-stack web development using HTML5, CSS3, PHP, and SQL databases to connect local pet owners with certified veterinary care.",
+      "product": "Find-A-Vet, a structured search directory website querying a relational database of local veterinary clinics.",
+      "report_path": "pp-success-case/20-find-a-vet-database/20-report.md",
+      "success_evidence": [
+        "Complete public commit history and approved school proposal documentation are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Using version-controlled GitHub repositories with timestamped commits serves as robust, verifiable evidence for the MYP process journal.",
+      "sources": [
+        {
+          "label": "GitHub Repository (mcastiglia/PersonalProject)",
+          "url": "https://github.com/mcastiglia/PersonalProject"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "climatator-iot-simulator",
+      "title": "Climatator 4D Climate Simulator",
+      "case_type": "success",
+      "classification": "Topic: Embedded systems & IoT / physical computing & education Evidence status: Public GitHub repository documenting MYP Personal Project; showcase-only",
+      "topic": "Embedded systems & IoT / physical computing & education",
+      "evidence_status": "Public GitHub repository documenting MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Combine web technologies, microcontrollers, and sensory actuators to build an immersive 4D environmental educational chamber. Product: A complete physical enclosure integrating Arduino, Raspberry Pi, Python, and Next.js to control synchronized heating, fans, lighting, audio, and video narration.",
+      "goal": "Combine web technologies, microcontrollers, and sensory actuators to build an immersive 4D environmental educational chamber.",
+      "product": "A complete physical enclosure integrating Arduino, Raspberry Pi, Python, and Next.js to control synchronized heating, fans, lighting, audio, and video narration.",
+      "report_path": "pp-success-case/21-climatator-iot-simulator/21-report.md",
+      "success_evidence": [
+        "Open-source codebase publication and multi-device hardware integration documentation are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Bridging physical microcontrollers (Arduino/Raspberry Pi) with modern web dashboards demonstrates sophisticated multi-tier technical capability.",
+      "sources": [
+        {
+          "label": "GitHub Repository (sampoder/climatator)",
+          "url": "https://github.com/sampoder/climatator"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "slug": "f1-optimal-racing-line-ai",
+      "title": "F1 Optimal Racing Line AI",
+      "case_type": "success",
+      "classification": "Topic: Artificial intelligence & machine learning / computational kinematics & sports analytics Evidence status: Public project report document on Scribd detailing MYP Personal Project; showcase-only",
+      "topic": "Artificial intelligence & machine learning / computational kinematics & sports analytics",
+      "evidence_status": "Public project report document on Scribd detailing MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Develop an artificial intelligence program to calculate, simulate, and visualize optimal vehicle racing trajectories on F1 and kart circuits. Product: An AI trajectory analysis and visualization program evaluating track geometry, velocity curves, and vehicle racing dynamics.",
+      "goal": "Develop an artificial intelligence program to calculate, simulate, and visualize optimal vehicle racing trajectories on F1 and kart circuits.",
+      "product": "An AI trajectory analysis and visualization program evaluating track geometry, velocity curves, and vehicle racing dynamics.",
+      "report_path": "pp-success-case/22-f1-optimal-racing-line-ai/22-report.md",
+      "success_evidence": [
+        "Public document publication detailing design specifications and success criteria is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Applying mathematical modeling and algorithmic optimization to specialized personal passions creates deep engagement and unique analytical products.",
+      "sources": [
+        {
+          "label": "Scribd Project Document",
+          "url": "https://www.scribd.com/document/1009018657/MYP-Personal-Project"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "slug": "ai-educational-portal",
+      "title": "AI Educational Web Portal",
+      "case_type": "success",
+      "classification": "Topic: Artificial intelligence / educational web platform Evidence status: Public GitHub repository explicitly titled for IB-MYP Personal Project; showcase-only",
+      "topic": "Artificial intelligence / educational web platform",
+      "evidence_status": "Public GitHub repository explicitly titled for IB-MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Research foundational machine learning concepts and build an informative interactive web resource explaining AI mechanisms and ethics to high school peers. Product: A structured informational website presenting artificial intelligence concepts, algorithmic principles, and societal implications.",
+      "goal": "Research foundational machine learning concepts and build an informative interactive web resource explaining AI mechanisms and ethics to high school peers.",
+      "product": "A structured informational website presenting artificial intelligence concepts, algorithmic principles, and societal implications.",
+      "report_path": "pp-success-case/23-ai-educational-portal/23-report.md",
+      "success_evidence": [
+        "Public GitHub code repository publication is the only success signal; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Synthesizing cutting-edge technical subjects into approachable peer tutorials directly exercises MYP information literacy and communication ATL skills.",
+      "sources": [
+        {
+          "label": "GitHub Repository (advikanamasivayam/Artificial-Intelligence)",
+          "url": "https://github.com/advikanamasivayam/Artificial-Intelligence"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "slug": "miasma-godot-game",
+      "title": "Miasma Godot Adventure Game",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / game design & GDScript Evidence status: Public GitHub repository explicitly created for MYP Personal Project; showcase-only",
+      "topic": "Software engineering / game design & GDScript",
+      "evidence_status": "Public GitHub repository explicitly created for MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Master the Godot engine, 2D physics, and GDScript programming to create a standalone playable narrative adventure game. Product: Miasma, a completed 2D video game developed with Godot featuring player movement, world state management, and collision mechanics.",
+      "goal": "Master the Godot engine, 2D physics, and GDScript programming to create a standalone playable narrative adventure game.",
+      "product": "Miasma, a completed 2D video game developed with Godot featuring player movement, world state management, and collision mechanics.",
+      "report_path": "pp-success-case/24-miasma-godot-game/24-report.md",
+      "success_evidence": [
+        "Open-source codebase release and repository publication are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Open-source game engines like Godot allow rapid iteration while demanding rigorous code organization for scene trees and game physics.",
+      "sources": [
+        {
+          "label": "GitHub Repository (return0jz/miasma)",
+          "url": "https://github.com/return0jz/miasma"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "slug": "astrophysics-interactive-site",
+      "title": "Astrophysics & Black Holes Interactive Guide",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / scientific simulation & web education Evidence status: Public GitHub repository and deployed website documenting MYP Personal Project; showcase-only",
+      "topic": "Software engineering / scientific simulation & web education",
+      "evidence_status": "Public GitHub repository and deployed website documenting MYP Personal Project; showcase-only",
+      "project_summary": "Goal: Learn web programming to build a visual, interactive scientific guide explaining black hole physics, general relativity, and orbital dynamics. Product: A deployed educational web application with animated diagrams and interactive scientific explanations of astronomical phenomena.",
+      "goal": "Learn web programming to build a visual, interactive scientific guide explaining black hole physics, general relativity, and orbital dynamics.",
+      "product": "A deployed educational web application with animated diagrams and interactive scientific explanations of astronomical phenomena.",
+      "report_path": "pp-success-case/25-astrophysics-interactive-site/25-report.md",
+      "success_evidence": [
+        "Live GitHub Pages web publication and public repository are the only success signals; selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Combining advanced STEM concepts (astrophysics) with interactive front-end visualizations provides measurable user education and clear Criterion A goals.",
+      "sources": [
+        {
+          "label": "GitHub Repository (ilikecubesnstuff/black-holes)",
+          "url": "https://github.com/ilikecubesnstuff/black-holes"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "slug": "fps-wave-survival-game",
+      "title": "First-Person Shooter Wave Survival Game",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / 3D game development Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering / 3D game development",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn 3D game engine programming, vector math, and enemy wave spawning algorithms to build a 3D shooter. Product: A functional first-person shooter survival game featuring wave mechanics, projectile collision, and scoring systems.",
+      "goal": "Learn 3D game engine programming, vector math, and enemy wave spawning algorithms to build a 3D shooter.",
+      "product": "A functional first-person shooter survival game featuring wave mechanics, projectile collision, and scoring systems.",
+      "report_path": "pp-success-case/26-fps-wave-survival-game/26-report.md",
+      "success_evidence": [
+        "Selection and publication in the district MYP STEM showcase is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Implementing core mechanics in distinct sprints (movement, shooting, enemy AI, wave logic) keeps ambitious 3D game projects manageable.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "slug": "mit-app-inventor-utility",
+      "title": "MIT App Inventor Mobile Utility",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / mobile application development Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering / mobile application development",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn event-driven visual programming and mobile interface design using MIT App Inventor to build a student utility app. Product: A completed mobile utility application and presentation documenting mobile app architecture and logic workflows.",
+      "goal": "Learn event-driven visual programming and mobile interface design using MIT App Inventor to build a student utility app.",
+      "product": "A completed mobile utility application and presentation documenting mobile app architecture and logic workflows.",
+      "report_path": "pp-success-case/27-mit-app-inventor-utility/27-report.md",
+      "success_evidence": [
+        "District MYP STEM showcase presentation selection is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Visual block-based tools like MIT App Inventor allow beginners to master computational logic and UX flows before transitioning to raw code.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "slug": "python-generative-art",
+      "title": "Python Generative Art Framework",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & mathematics / algorithmic computer graphics Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering & mathematics / algorithmic computer graphics",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Explore mathematical algorithms, trigonometric transformations, and Python graphics libraries to generate procedural art. Product: A Python generative art program producing intricate geometric compositions through mathematical formulas and algorithmic randomness.",
+      "goal": "Explore mathematical algorithms, trigonometric transformations, and Python graphics libraries to generate procedural art.",
+      "product": "A Python generative art program producing intricate geometric compositions through mathematical formulas and algorithmic randomness.",
+      "report_path": "pp-success-case/28-python-generative-art/28-report.md",
+      "success_evidence": [
+        "Official district MYP STEM showcase selection and publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Bridging mathematics and coding through visual algorithmic art produces immediate, observable artifacts for Criterion C evaluation.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "slug": "autonomous-drawing-robot",
+      "title": "Autonomous Precision Drawing Robot",
+      "case_type": "success",
+      "classification": "Topic: Robotics & embedded systems / mechatronics Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Robotics & embedded systems / mechatronics",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Design, 3D print, and program a microcontroller-driven robotic plotter capable of translating digital vector paths into physical drawings. Product: A completed autonomous drawing robot integrating stepper motor controls, servo pen lifters, and custom microcontroller firmware.",
+      "goal": "Design, 3D print, and program a microcontroller-driven robotic plotter capable of translating digital vector paths into physical drawings.",
+      "product": "A completed autonomous drawing robot integrating stepper motor controls, servo pen lifters, and custom microcontroller firmware.",
+      "report_path": "pp-success-case/29-autonomous-drawing-robot/29-report.md",
+      "success_evidence": [
+        "District MYP STEM showcase publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Mechatronic projects require rigorous calibration between digital stepper motor coordinates and physical friction constraints.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "slug": "csharp-unity-game-system",
+      "title": "C# Game Architecture in Unity",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / object-oriented game programming Evidence status: Official San Juan USD MYP Personal Project Showcase 2022/2023 STEM entry; showcase-only",
+      "topic": "Software engineering / object-oriented game programming",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2022/2023 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn typed object-oriented programming in C# and the Unity engine to construct modular game systems and mechanics. Product: A playable game project demonstrating custom C# scripts for character controllers, physics triggers, and user interface event handling.",
+      "goal": "Learn typed object-oriented programming in C# and the Unity engine to construct modular game systems and mechanics.",
+      "product": "A playable game project demonstrating custom C# scripts for character controllers, physics triggers, and user interface event handling.",
+      "report_path": "pp-success-case/30-csharp-unity-game-system/30-report.md",
+      "success_evidence": [
+        "Featured publication in the district MYP STEM showcase is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Focusing on mastering programming fundamentals (C# classes and event listeners) provides durable learning transfer into future computer science coursework.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase 2022/23 STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "slug": "retro-games-in-python",
+      "title": "Retro Game Suite in Python",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / game programming & Pygame Evidence status: Official San Juan USD MYP Personal Project Showcase 2022/2023 STEM entry; showcase-only",
+      "topic": "Software engineering / game programming & Pygame",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2022/2023 STEM entry; showcase-only",
+      "project_summary": "Goal: Master Python data structures, game loops, and collision math by recreating classic retro arcade games. Product: A suite of functioning retro arcade games implemented in Python featuring state management, scoring, and sprite animations.",
+      "goal": "Master Python data structures, game loops, and collision math by recreating classic retro arcade games.",
+      "product": "A suite of functioning retro arcade games implemented in Python featuring state management, scoring, and sprite animations.",
+      "report_path": "pp-success-case/31-retro-games-in-python/31-report.md",
+      "success_evidence": [
+        "District MYP STEM showcase publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Replicating established retro game rules removes ambiguous gameplay design questions, letting the student focus purely on clean code implementation.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase 2022/23 STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "slug": "arduino-fall-detector",
+      "title": "Arduino IoT Elderly Fall Detector",
+      "case_type": "success",
+      "classification": "Topic: Embedded systems & IoT / assistive healthcare hardware Evidence status: Official San Juan USD MYP Personal Project Showcase 2022/2023 STEM entry; showcase-only",
+      "topic": "Embedded systems & IoT / assistive healthcare hardware",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2022/2023 STEM entry; showcase-only",
+      "project_summary": "Goal: Engineer a wearable electronic safety device using an accelerometer and Arduino microcontroller to detect sudden falls in elderly individuals. Product: A working wearable fall detection device programmed in Arduino C++ with threshold trigger algorithms and alert signaling.",
+      "goal": "Engineer a wearable electronic safety device using an accelerometer and Arduino microcontroller to detect sudden falls in elderly individuals.",
+      "product": "A working wearable fall detection device programmed in Arduino C++ with threshold trigger algorithms and alert signaling.",
+      "report_path": "pp-success-case/32-arduino-fall-detector/32-report.md",
+      "success_evidence": [
+        "District MYP STEM showcase publication is the only success signal and no score is public."
+      ],
+      "useful_lesson": "Sensor threshold calibration requires empirical trial data across different movement types to avoid false positive alarms.",
+      "sources": [
+        {
+          "label": "San Juan USD MYP Showcase 2022/23 STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "slug": "java-mobile-quiz-game",
+      "title": "Java Mobile Quiz Game",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / mobile game programming in Java Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering / mobile game programming in Java",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Learn object-oriented programming fundamentals in Java to develop a custom mobile trivia application. Product: A functional mobile quiz game exploring regional vocabulary (\"British vs American Quiz\") featuring repository integration and gameplay scoring.",
+      "goal": "Learn object-oriented programming fundamentals in Java to develop a custom mobile trivia application.",
+      "product": "A functional mobile quiz game exploring regional vocabulary (\"British vs American Quiz\") featuring repository integration and gameplay scoring.",
+      "report_path": "pp-success-case/33-java-mobile-quiz-game/33-report.md",
+      "success_evidence": [
+        "The student structured a staged action plan moving from web scripting basics to Java class architecture and repository code comprehension.",
+        "Game mechanics were iteratively tested against predefined success criteria before final deployment.",
+        "Featured selection in the school MYP Personal Project Showcase demonstrates completed delivery (no public IB score is available)."
+      ],
+      "useful_lesson": "Forking or referencing existing open-source code repositories provides practical architectural scaffolding for learning a statically typed language like Java.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1WY-jdGDbqrGsjWu-5fG5I7LmGCo32Dzr/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "slug": "impromptu-speech-platform",
+      "title": "Impromptu Speaking Web Platform",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & web design / public speaking educational resource Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering & web design / public speaking educational resource",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Master responsive web design principles and front-end layout techniques to build an organized educational platform. Product: Impromptu 101 (impromptu101.com), a public educational website providing an A-E presentation guide, prompt generators, speech practice resources, and user feedback forms.",
+      "goal": "Master responsive web design principles and front-end layout techniques to build an organized educational platform.",
+      "product": "Impromptu 101 (impromptu101.com), a public educational website providing an A-E presentation guide, prompt generators, speech practice resources, and user feedback forms.",
+      "report_path": "pp-success-case/34-impromptu-speech-platform/34-report.md",
+      "success_evidence": [
+        "The student designed an explicit 4-tier rubric (Aesthetics, User/Audience, Content/Function, Impact) scored from 1 to 8.",
+        "Traffic metrics demonstrated over 300 active visitors accessing the speech training materials.",
+        "Official showcase selection serves as the primary verification signal (no public IB score is available)."
+      ],
+      "useful_lesson": "Defining quantitative user reach metrics in Criterion A success criteria turns abstract web design goals into measurable Criterion C evaluation data.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1_ij6aEgk6xlXvAcEhHEN5sIM-jaM6fTV/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "slug": "tumblr-blog-theme",
+      "title": "Tumblr Responsive Blog Theme",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / front-end web development (HTML, CSS, JavaScript) Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering / front-end web development (HTML, CSS, JavaScript)",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Acquire foundational web development capabilities in HTML, CSS, JavaScript, and graphic design to prepare for future computer science studies. Product: A complete custom-coded Tumblr blog theme featuring responsive layout styling, modular CSS variables, and dynamic user personalization options.",
+      "goal": "Acquire foundational web development capabilities in HTML, CSS, JavaScript, and graphic design to prepare for future computer science studies.",
+      "product": "A complete custom-coded Tumblr blog theme featuring responsive layout styling, modular CSS variables, and dynamic user personalization options.",
+      "report_path": "pp-success-case/35-tumblr-blog-theme/35-report.md",
+      "success_evidence": [
+        "The student created a rigorous 4-part success criteria rubric across Aesthetics, User/Audience, Function, and Materials.",
+        "Iterative debugging and multi-browser testing were documented across progressive development sprints.",
+        "High school MYP showcase exhibition validates project completion (no public IB score is available)."
+      ],
+      "useful_lesson": "Building themes for existing social platforms enforces real-world API constraints and dynamic template variables without requiring full back-end hosting setup.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/14jIzjfWa9zWHL5KJ8KkiNHtwPs57aYYx/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "slug": "carpooling-web-application",
+      "title": "Student Carpooling Web Application",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & web databases / full-stack school logistics Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering & web databases / full-stack school logistics",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Learn full-stack web architecture, database persistence, and user authentication to solve school commuting challenges. Product: A working carpooling web platform consisting of 762 lines of code across 24 files, featuring secure account registration, session login, city-based matching, and dynamic PHP/MySQL data retrieval.",
+      "goal": "Learn full-stack web architecture, database persistence, and user authentication to solve school commuting challenges.",
+      "product": "A working carpooling web platform consisting of 762 lines of code across 24 files, featuring secure account registration, session login, city-based matching, and dynamic PHP/MySQL data retrieval.",
+      "report_path": "pp-success-case/36-carpooling-web-application/36-report.md",
+      "success_evidence": [
+        "The developer overcame full-stack data handling hurdles, connecting front-end forms with back-end database queries.",
+        "Live hosting and public web deployment hurdles were documented and solved over months of iteration.",
+        "Showcase inclusion confirms successful delivery and functionality (no public IB score is available)."
+      ],
+      "useful_lesson": "Full-stack applications require realistic contingency buffers for deployment and hosting research, which often take longer than initial local coding.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1FNez5Mmy_fzpPGuV9N1uTq8FJXSjIIYB/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "slug": "discord-bot-assistant",
+      "title": "Discord Community Management Bot",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & API integration / Node.js & Discord.js Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering & API integration / Node.js & Discord.js",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Learn asynchronous JavaScript programming, Node.js environment configuration, and bot event handling. Product: Taemnie, an interactive Discord bot integrating command listeners, environment security via dotenv, and community engagement features.",
+      "goal": "Learn asynchronous JavaScript programming, Node.js environment configuration, and bot event handling.",
+      "product": "Taemnie, an interactive Discord bot integrating command listeners, environment security via dotenv, and community engagement features.",
+      "report_path": "pp-success-case/37-discord-bot-assistant/37-report.md",
+      "success_evidence": [
+        "When Discord.js updated from v13 to v14 breaking earlier code, the student refactored syntax and adapted to the breaking API changes.",
+        "Detailed rubrics evaluated token privacy, uptime, and command response handling.",
+        "Official showcase exhibition establishes project completion (no public IB score is available)."
+      ],
+      "useful_lesson": "Managing third-party library dependencies requires tracking breaking semantic version changes, demonstrating resilient problem-solving in Criterion B.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1ACTRH2aD2i_7SA6o0fAPFOOmJClVkvgT/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "slug": "eeg-brainwave-monitor",
+      "title": "EEG Brainwave Monitoring System",
+      "case_type": "success",
+      "classification": "Topic: Hardware & software engineering / biomedical signal processing Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Hardware & software engineering / biomedical signal processing",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Learn neurological signal acquisition and Python data visualization by pairing EEG hardware with a single-board computer. Product: iReadYourMind, an embedded sensor workstation connecting a Muse EEG headband to a Raspberry Pi 3 to stream, filter, and graph neural wave bands (Beta, Alpha, Theta, Delta) in real time.",
+      "goal": "Learn neurological signal acquisition and Python data visualization by pairing EEG hardware with a single-board computer.",
+      "product": "iReadYourMind, an embedded sensor workstation connecting a Muse EEG headband to a Raspberry Pi 3 to stream, filter, and graph neural wave bands (Beta, Alpha, Theta, Delta) in real time.",
+      "report_path": "pp-success-case/38-eeg-brainwave-monitor/38-report.md",
+      "success_evidence": [
+        "The student formulated SMART milestones for Bluetooth telemetry handshake, signal processing, and visual charting.",
+        "Practical troubleshooting overcome microcomputing interface errors and sensor latency.",
+        "Official showcase display validates successful prototyping (no public IB score is available)."
+      ],
+      "useful_lesson": "Interfacing consumer biomedical sensors with single-board computers requires strict signal filtering to separate genuine neural data from ambient electrical noise.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1OYyT-ApCDYLzyYv0uvzw5VfbEG504Noy/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "slug": "unity-2d-platformer",
+      "title": "Unity 2D Platformer Game Engine",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / game development & C# scripting Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering / game development & C# scripting",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Master the Unity engine pipeline, 2D physics kinematics, and C# scripting to produce a polished platforming title. Product: G.R.A.P.P.L.E., a fully playable 2D platformer video game providing 10-15 minutes of gameplay built on custom physics mechanics and level design.",
+      "goal": "Master the Unity engine pipeline, 2D physics kinematics, and C# scripting to produce a polished platforming title.",
+      "product": "G.R.A.P.P.L.E., a fully playable 2D platformer video game providing 10-15 minutes of gameplay built on custom physics mechanics and level design.",
+      "report_path": "pp-success-case/39-unity-2d-platformer/39-report.md",
+      "success_evidence": [
+        "The developer maintained steady progress through daily micro-milestones and structured C# code iteration.",
+        "Rigorous success criteria scored gameplay fluidity, audio atmosphere, and level progression.",
+        "Selection and display in the district MYP showcase confirm completion (no public IB score is available)."
+      ],
+      "useful_lesson": "Committing to small daily coding targets prevents procrastination during large engine-based software projects and keeps feature creep under control.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1myFxnRBgaUh60tU_ypsPexS1rfODND_i/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "slug": "python-game-and-ml-pipeline",
+      "title": "Python Game and ML Analytics Pipeline",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & machine learning / algorithmic development Evidence status: Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "topic": "Software engineering & machine learning / algorithmic development",
+      "evidence_status": "Official Mira Loma High School MYP Personal Project Showcase 2022/23 entry; showcase-only",
+      "project_summary": "Goal: Investigate dual applications of Python across interactive GUI game development and machine learning data analysis. Product: A multi-component Python software suite featuring an interactive Pygame title (Tic-Tac-Toe) and an NBA sports statistical machine learning data model.",
+      "goal": "Investigate dual applications of Python across interactive GUI game development and machine learning data analysis.",
+      "product": "A multi-component Python software suite featuring an interactive Pygame title (Tic-Tac-Toe) and an NBA sports statistical machine learning data model.",
+      "report_path": "pp-success-case/40-python-game-and-ml-pipeline/40-report.md",
+      "success_evidence": [
+        "The student systematically planned learning phases across IDLE environment configuration, Pygame multimedia handling, and statistical modeling algorithms.",
+        "Detailed investigation records guided model library selection and game loop logic.",
+        "High school showcase exhibition demonstrates complete delivery (no public IB score is available)."
+      ],
+      "useful_lesson": "Comparing machine learning data processing with interactive game event loops within one language deepens understanding of Python versatility.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://drive.google.com/file/d/1LDLM68KMBrRli6ghcRFN2kYFBSiuMacu/view"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Portal",
+          "url": "https://sites.google.com/sanjuan.edu/myppersonalprojectshowcase2022/stem"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "slug": "python-multi-game-suite",
+      "title": "Python Multi-Game Arcade Suite",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / algorithmic Python programming Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering / algorithmic Python programming",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn algorithmic programming fundamentals and text/graphical game architecture in Python over a six-month inquiry cycle. Product: A comprehensive three-game Python arcade suite featuring original adaptations of Oregon Trail, Blackjack card mechanics, and a turn-based combat system.",
+      "goal": "Learn algorithmic programming fundamentals and text/graphical game architecture in Python over a six-month inquiry cycle.",
+      "product": "A comprehensive three-game Python arcade suite featuring original adaptations of Oregon Trail, Blackjack card mechanics, and a turn-based combat system.",
+      "report_path": "pp-success-case/41-python-multi-game-suite/41-report.md",
+      "success_evidence": [
+        "The student established iterative milestones spanning basic Python syntax through complex conditional game state loops.",
+        "Multiple genre designs tested algorithmic randomization, player inventory tracking, and scoring systems.",
+        "District showcase presentation validates full project completion (no public IB score is available)."
+      ],
+      "useful_lesson": "Implementing multiple distinct game rule sets in Python tests different programming paradigms (card probabilities vs inventory resource management).",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1JFVSCcfvA2XXsT5C4rm-236GizzhwTfuAPpfXyeAknI/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "slug": "educational-deforestation-game",
+      "title": "Educational Deforestation Game in Python",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / educational technology & environmental simulation Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering / educational technology & environmental simulation",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn Python programming to develop an interactive pedagogical game simulating environmental consequences of deforestation. Product: A playable Python simulation game where player management choices directly influence forest preservation and ecosystem health.",
+      "goal": "Learn Python programming to develop an interactive pedagogical game simulating environmental consequences of deforestation.",
+      "product": "A playable Python simulation game where player management choices directly influence forest preservation and ecosystem health.",
+      "report_path": "pp-success-case/42-educational-deforestation-game/42-report.md",
+      "success_evidence": [
+        "The developer linked programming mechanics with environmental science research across Criterion A planning stages.",
+        "Player feedback loops demonstrated how choices impacted conservation variables.",
+        "Official district STEM showcase selection confirms successful exhibition (no public IB score is available)."
+      ],
+      "useful_lesson": "Embedding educational objectives directly into game state variables makes software an active instructional vehicle rather than a passive quiz.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1YOHDy3q8z7mo1t7LCTswAMKIdWnTH3pNaOfi7d35jdE/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "slug": "turn-based-digital-board-game",
+      "title": "Turn-Based Digital Board Game",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / full-stack web game development Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering / full-stack web game development",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn JavaScript, HTML5 canvas rendering, and game state mechanics to code a multiplayer board game. Product: A deployed two-player turn-based space strategy game on Replit featuring unique character abilities, dynamic asteroid hazards, and custom win conditions.",
+      "goal": "Learn JavaScript, HTML5 canvas rendering, and game state mechanics to code a multiplayer board game.",
+      "product": "A deployed two-player turn-based space strategy game on Replit featuring unique character abilities, dynamic asteroid hazards, and custom win conditions.",
+      "report_path": "pp-success-case/43-turn-based-digital-board-game/43-report.md",
+      "success_evidence": [
+        "The student systematically organized development across language selection, physics rule definition, and web canvas rendering.",
+        "Public deployment enabled live player testing and iterative rule balancing.",
+        "District showcase publication serves as primary completion evidence (no public IB score is available)."
+      ],
+      "useful_lesson": "Hosting interactive browser-based games on platforms like Replit provides frictionless access for peers to test and submit Criterion C usability feedback.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1uJzVr7MxG6HOGIYN47pdNg_LoU30VvzOchaATw6qSQk/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "slug": "robotic-vacuum-game-system",
+      "title": "Robotic Vacuum Embedded Game System",
+      "case_type": "success",
+      "classification": "Topic: Robotics & embedded programming / hardware abstraction & game logic Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Robotics & embedded programming / hardware abstraction & game logic",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Master the iRobot programming interface and sensor APIs to transform household hardware into an interactive gaming device. Product: The Hangman Trials, an embedded game system programmed on an iRobot platform utilizing onboard sensors, motor actuation, and audiovisual feedback loops.",
+      "goal": "Master the iRobot programming interface and sensor APIs to transform household hardware into an interactive gaming device.",
+      "product": "The Hangman Trials, an embedded game system programmed on an iRobot platform utilizing onboard sensors, motor actuation, and audiovisual feedback loops.",
+      "report_path": "pp-success-case/44-robotic-vacuum-game-system/44-report.md",
+      "success_evidence": [
+        "The student overcame sparse third-party API documentation through empirical trial-and-error hardware experiments.",
+        "Self-evaluation scored creativity and hardware utilization at maximum rubric levels.",
+        "Official showcase display validates working physical implementation (no public IB score is available)."
+      ],
+      "useful_lesson": "Repurposing consumer robotics via native APIs requires deep resilience and creative problem-solving when formal tutorials are limited.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1DDPrQrP3S-e33lC7Q9elCs8meVHSOxdxcxOfJvfrH2o/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "slug": "automated-weather-bot",
+      "title": "Automated Weather Data Bot",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & cloud automation / Python & REST APIs Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering & cloud automation / Python & REST APIs",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn Python scripting, external weather REST APIs, and automated cloud scheduling. Product: An automated Python service deployed on PythonAnywhere that fetches real-time meteorological data and publishes scheduled daily weather forecasts on Twitter.",
+      "goal": "Learn Python scripting, external weather REST APIs, and automated cloud scheduling.",
+      "product": "An automated Python service deployed on PythonAnywhere that fetches real-time meteorological data and publishes scheduled daily weather forecasts on Twitter.",
+      "report_path": "pp-success-case/45-automated-weather-bot/45-report.md",
+      "success_evidence": [
+        "The developer successfully configured cloud crons and API authentication tokens for unmanned execution.",
+        "Live logs confirmed seven consecutive days of automated, error-free forecast broadcasting.",
+        "District MYP showcase publication demonstrates complete delivery (no public IB score is available)."
+      ],
+      "useful_lesson": "Cloud-scheduled micro-services provide an ideal introduction to REST API authentication, environment variables, and headless cron tasks.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/15YYDGR57LhzpPxJ42ymiZYpM1rz-7BYlg4JH5mUo1FI/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "slug": "interactive-neuroanatomy-program",
+      "title": "Interactive Neuroanatomy Software",
+      "case_type": "success",
+      "classification": "Topic: Software engineering / neuroscience & pedagogical software Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Software engineering / neuroscience & pedagogical software",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Combine computer programming with neurological research to create an interactive anatomical learning application. Product: A custom interactive educational software application mapping cerebral lobes, functional neuroanatomy, and physiological descriptions.",
+      "goal": "Combine computer programming with neurological research to create an interactive anatomical learning application.",
+      "product": "A custom interactive educational software application mapping cerebral lobes, functional neuroanatomy, and physiological descriptions.",
+      "report_path": "pp-success-case/46-interactive-neuroanatomy-program/46-report.md",
+      "success_evidence": [
+        "The student developed explicit success criteria requiring identification and descriptions for all anatomical cerebral lobes.",
+        "Graphic assembly and user click detection were implemented within platform constraints.",
+        "Inclusion in the district STEM showcase establishes finished execution (no public IB score is available)."
+      ],
+      "useful_lesson": "Building specialized subject tutorials requires balancing technical code modularity with rigorous scientific accuracy in informational assets.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/10J95i_TsdDh7xenbKm4lgndaB7TmA2soc5I9fTVvb_I/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "slug": "iot-weather-station-raspberry-pi",
+      "title": "IoT Raspberry Pi Weather Station",
+      "case_type": "success",
+      "classification": "Topic: Hardware & embedded systems / IoT sensor integration & Python Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Hardware & embedded systems / IoT sensor integration & Python",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Learn Raspberry Pi Linux administration, GPIO sensor interfacing, and Python data collection to monitor microclimates. Product: A functioning physical weather station integrating temperature, humidity, and atmospheric sensors with Python automation to log and display climate metrics.",
+      "goal": "Learn Raspberry Pi Linux administration, GPIO sensor interfacing, and Python data collection to monitor microclimates.",
+      "product": "A functioning physical weather station integrating temperature, humidity, and atmospheric sensors with Python automation to log and display climate metrics.",
+      "report_path": "pp-success-case/47-iot-weather-station-raspberry-pi/47-report.md",
+      "success_evidence": [
+        "The student structured an organized 4-week monthly calendar to pace hardware assembly and code writing.",
+        "Physical environmental telemetry was verified through sustained observational testing.",
+        "Official district showcase selection confirms working completion (no public IB score is available)."
+      ],
+      "useful_lesson": "Physical computing projects benefit from decoupling sensor circuit testing from software logging to isolate hardware wiring faults early.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/17oFnvq_hCVTTPlKEoBwdaoy-KrXvYA2CtjK53DSA8Ys/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "slug": "custom-gaming-pc-architecture",
+      "title": "High-Performance PC Hardware Architecture",
+      "case_type": "success",
+      "classification": "Topic: Computer engineering & hardware architecture / systems integration Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Computer engineering & hardware architecture / systems integration",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Master computer hardware architecture, component compatibility, power distribution, and thermal management under budget constraints. Product: A fully assembled, configured, and benchmarked high-performance desktop workstation optimized for heavy computing workloads.",
+      "goal": "Master computer hardware architecture, component compatibility, power distribution, and thermal management under budget constraints.",
+      "product": "A fully assembled, configured, and benchmarked high-performance desktop workstation optimized for heavy computing workloads.",
+      "report_path": "pp-success-case/48-custom-gaming-pc-architecture/48-report.md",
+      "success_evidence": [
+        "The student executed a systematic investigation into bus speeds, power supply load curves, and thermal throttling.",
+        "The assembled rig successfully completed operating system deployment and hardware stress tests.",
+        "High school showcase exhibition validates project completion (no public IB score is available)."
+      ],
+      "useful_lesson": "Detailed compatibility and wattage budgeting prior to part procurement prevents costly electrical and physical integration failures.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1NVcLx5E13L6nyvdxRYjcmc40nVggcICcN-fOcr34y5o/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "slug": "stock-market-simulator-game",
+      "title": "Student Stock Market Simulator Game",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & financial technology / educational game design Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Software engineering & financial technology / educational game design",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Create a student-friendly stock market simulator game to teach basic financial literacy and equity investing dynamics. Product: An interactive simulated trading game replicating market price fluctuations, portfolio tracking, and trade execution for student learning.",
+      "goal": "Create a student-friendly stock market simulator game to teach basic financial literacy and equity investing dynamics.",
+      "product": "An interactive simulated trading game replicating market price fluctuations, portfolio tracking, and trade execution for student learning.",
+      "report_path": "pp-success-case/49-stock-market-simulator-game/49-report.md",
+      "success_evidence": [
+        "The student translated complex financial mechanisms into accessible game loops with clear feedback states.",
+        "The project successfully satisfied Criterion C delivery and was selected for the official schoolwide MYP exhibition video showcase (no public IB score is available)."
+      ],
+      "useful_lesson": "Simulating real-world dynamic systems through gamified mechanics lowers cognitive barriers for student audiences while providing measurable user engagement.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/IFsR2NJwNww"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "slug": "dementia-assisting-device",
+      "title": "DAD: Dementia Assisting Device",
+      "case_type": "success",
+      "classification": "Topic: Assistive technology & embedded systems / healthcare hardware Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Assistive technology & embedded systems / healthcare hardware",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Engineer a dedicated assistive hardware device to help individuals with dementia retain daily routines and memory cues. Product: DAD (Dementia Assisting Device), a specialized interactive reminder unit featuring scheduled audio-visual prompts and orientation aids.",
+      "goal": "Engineer a dedicated assistive hardware device to help individuals with dementia retain daily routines and memory cues.",
+      "product": "DAD (Dementia Assisting Device), a specialized interactive reminder unit featuring scheduled audio-visual prompts and orientation aids.",
+      "report_path": "pp-success-case/50-dementia-assisting-device/50-report.md",
+      "success_evidence": [
+        "Grounded in direct user-need analysis, the design prioritized high-contrast clarity and predictable interaction patterns.",
+        "Demonstrated end-to-end execution from design specifications to physical prototype, earning exhibition showcase selection (no public IB score is available)."
+      ],
+      "useful_lesson": "Assistive technology products must rigidly constrain feature complexity to suit the cognitive bandwidth of their target users.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/O_M4fzxHxaY"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "slug": "the-arm-bionic-prosthetic",
+      "title": "The ARM Bionic Prosthetic",
+      "case_type": "success",
+      "classification": "Topic: Robotics & biomechatronics / prosthetic engineering Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Robotics & biomechatronics / prosthetic engineering",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Design and fabricate an articulated, motorized prosthetic arm capable of functional grasping at an affordable cost. Product: The ARM, a multi-segment prosthetic limb incorporating servo actuation, tendon cable routing, and mechanical grip linkages.",
+      "goal": "Design and fabricate an articulated, motorized prosthetic arm capable of functional grasping at an affordable cost.",
+      "product": "The ARM, a multi-segment prosthetic limb incorporating servo actuation, tendon cable routing, and mechanical grip linkages.",
+      "report_path": "pp-success-case/51-the-arm-bionic-prosthetic/51-report.md",
+      "success_evidence": [
+        "Overcame structural tolerance issues through rapid iterative 3D printing and mechanical tension tuning.",
+        "Completed functional grasping demonstrations validated project criteria and secured inclusion in the MYP exhibition (no public IB score is available)."
+      ],
+      "useful_lesson": "Physical cable-driven tension mechanisms demand precise mechanical anchoring to translate motor torque into reliable end-effector grip force.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/4j6P4I7ufhQ"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "slug": "bioprinter-tissue-scaffold",
+      "title": "BioPrinter Tissue Scaffold Platform",
+      "case_type": "success",
+      "classification": "Topic: Biomedical engineering & digital fabrication / additive manufacturing Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Biomedical engineering & digital fabrication / additive manufacturing",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Design and assemble an experimental 3D bioprinter tailored for depositing biocompatible hydrogels and cellular scaffolding. Product: A functional benchtop bioprinter adapting multi-axis CNC motion control to precision syringe extrusion for biomaterials.",
+      "goal": "Design and assemble an experimental 3D bioprinter tailored for depositing biocompatible hydrogels and cellular scaffolding.",
+      "product": "A functional benchtop bioprinter adapting multi-axis CNC motion control to precision syringe extrusion for biomaterials.",
+      "report_path": "pp-success-case/52-bioprinter-tissue-scaffold/52-report.md",
+      "success_evidence": [
+        "Re-engineered fluid displacement and extruder mechanics to handle viscoelastic fluid properties without clogging.",
+        "Verified precision deposition across test beds, earning showcase exhibition honors (no public IB score is available)."
+      ],
+      "useful_lesson": "Adapting standard FDM motion axes to fluid biomaterials requires fine calibration of syringe back-pressure and volumetric flow rates.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/gHvZEEOhUok"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "slug": "digital-animation-software",
+      "title": "2D Digital Animation Software",
+      "case_type": "success",
+      "classification": "Topic: Software engineering & computer graphics / animation tooling Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Software engineering & computer graphics / animation tooling",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Program custom standalone animation software to streamline the frame-by-frame 2D animation process for digital artists. Product: A functional 2D animation application providing canvas drawing tools, onion skinning, timeline playback, and frame management.",
+      "goal": "Program custom standalone animation software to streamline the frame-by-frame 2D animation process for digital artists.",
+      "product": "A functional 2D animation application providing canvas drawing tools, onion skinning, timeline playback, and frame management.",
+      "report_path": "pp-success-case/53-digital-animation-software/53-report.md",
+      "success_evidence": [
+        "Implemented real-time graphical canvas rendering and responsive UI controls without external bloated frameworks.",
+        "The working application was showcased at the schoolwide MYP Personal Project exhibition (no public IB score is available)."
+      ],
+      "useful_lesson": "Structuring an animation tool around efficient canvas state serialization ensures smooth playback across high frame counts.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/0PeNCs2ln6Y"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "slug": "migrant-worker-support-web",
+      "title": "Migrant Worker Support Web Platform",
+      "case_type": "success",
+      "classification": "Topic: Web development & civic technology / community organizing Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Web development & civic technology / community organizing",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Build an accessible, multi-lingual informational web portal to assist foreign migrant workers in navigating legal rights and services. Product: A comprehensive responsive website centralizing essential worker welfare resources, helpline directories, and educational content.",
+      "goal": "Build an accessible, multi-lingual informational web portal to assist foreign migrant workers in navigating legal rights and services.",
+      "product": "A comprehensive responsive website centralizing essential worker welfare resources, helpline directories, and educational content.",
+      "report_path": "pp-success-case/54-migrant-worker-support-web/54-report.md",
+      "success_evidence": [
+        "Addressed documented community barriers by prioritizing intuitive mobile navigation and multilingual content delivery.",
+        "Successfully deployed the production portal, earning public showcase honors (no public IB score is available)."
+      ],
+      "useful_lesson": "Civic technology tools succeed when information architecture is stripped of technical and linguistic jargon for vulnerable end-users.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/VJMPNMYTf5g"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "slug": "social-impact-mobile-app",
+      "title": "Action-Oriented Mobile Impact App",
+      "case_type": "success",
+      "classification": "Topic: Mobile app development & environmental tech / civic action Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Mobile app development & environmental tech / civic action",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Develop a cross-platform mobile application empowering youth to track and execute environmental impact initiatives. Product: An interactive mobile application featuring sustainable habit logging, impact metrics calculation, and community milestone challenges.",
+      "goal": "Develop a cross-platform mobile application empowering youth to track and execute environmental impact initiatives.",
+      "product": "An interactive mobile application featuring sustainable habit logging, impact metrics calculation, and community milestone challenges.",
+      "report_path": "pp-success-case/55-social-impact-mobile-app/55-report.md",
+      "success_evidence": [
+        "Designed clean mobile interaction flows and gamified micro-actions that sustained active student testing.",
+        "Met all technical success criteria and was featured in the institutional MYP video showcase (no public IB score is available)."
+      ],
+      "useful_lesson": "Breaking abstract sustainability goals into verifiable, daily quantifiable micro-actions dramatically increases user follow-through in mobile tools.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/PuBBTmICCgc"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "slug": "first-aid-help-app",
+      "title": "Mobile First Aid Emergency App",
+      "case_type": "success",
+      "classification": "Topic: Mobile application development & digital health / emergency response Evidence status: Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "topic": "Mobile application development & digital health / emergency response",
+      "evidence_status": "Official Overseas Family School MYP Personal Project Exhibition 2021 entry; showcase-only",
+      "project_summary": "Goal: Program an intuitive mobile application providing quick, offline-ready first-aid protocols and emergency guidance during crises. Product: A portable first-aid smartphone application with categorized triage flowcharts, interactive CPR guidance, and rapid emergency dialing.",
+      "goal": "Program an intuitive mobile application providing quick, offline-ready first-aid protocols and emergency guidance during crises.",
+      "product": "A portable first-aid smartphone application with categorized triage flowcharts, interactive CPR guidance, and rapid emergency dialing.",
+      "report_path": "pp-success-case/56-first-aid-help-app/56-report.md",
+      "success_evidence": [
+        "Ensured zero network dependency by caching all critical triage guides locally on device.",
+        "Validated usability under time-pressured test simulations and earned MYP exhibition showcase selection (no public IB score is available)."
+      ],
+      "useful_lesson": "Emergency applications require deterministic, zero-latency offline access and high-contrast typographic hierarchies for high-stress usability.",
+      "sources": [
+        {
+          "label": "Showcase Video Presentation",
+          "url": "https://youtu.be/YfKEVqNP4TM"
+        },
+        {
+          "label": "OFS MYP Personal Project Exhibition",
+          "url": "https://personal-project-showcase.vercel.app/"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "slug": "diy-custom-quadcopter-drone",
+      "title": "Custom Remote-Controlled Quadcopter Drone",
+      "case_type": "success",
+      "classification": "Topic: Robotics & aerospace engineering / embedded hardware integration Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Robotics & aerospace engineering / embedded hardware integration",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Research aerodynamics, electronics, and flight avionics to engineer and test a fully functional custom quadcopter drone. Product: An assembled, calibrated, and flight-tested quadcopter integrating brushless motors, electronic speed controllers (ESCs), and radio telemetry.",
+      "goal": "Research aerodynamics, electronics, and flight avionics to engineer and test a fully functional custom quadcopter drone.",
+      "product": "An assembled, calibrated, and flight-tested quadcopter integrating brushless motors, electronic speed controllers (ESCs), and radio telemetry.",
+      "report_path": "pp-success-case/57-diy-custom-quadcopter-drone/57-report.md",
+      "success_evidence": [
+        "Overcame electrical wiring challenges, power distribution limits, and gyro calibration to achieve stable controlled flight.",
+        "Validated operational delivery via showcase exhibition in the district STEM portfolio (no public IB score is available)."
+      ],
+      "useful_lesson": "Systematic motor thrust-to-weight ratio calculations prior to component assembly prevent motor overheating and insufficient vertical lift.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1JNrnqsK6-m9k7kDSk0PS2mZZtmoJw6RVvGmWib_MvPY/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "slug": "desktop-computer-fabrication",
+      "title": "Custom Desktop Workstation Architecture",
+      "case_type": "success",
+      "classification": "Topic: Computer engineering & hardware architecture / systems integration Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "topic": "Computer engineering & hardware architecture / systems integration",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 STEM entry; showcase-only",
+      "project_summary": "Goal: Master personal computer architecture, multi-bus communication, and cooling optimization to construct a high-performance workstation. Product: A custom-built, fully operational desktop computer configured for demanding digital media workflows and academic software.",
+      "goal": "Master personal computer architecture, multi-bus communication, and cooling optimization to construct a high-performance workstation.",
+      "product": "A custom-built, fully operational desktop computer configured for demanding digital media workflows and academic software.",
+      "report_path": "pp-success-case/58-desktop-computer-fabrication/58-report.md",
+      "success_evidence": [
+        "Executed component compatibility analysis, managed power rail allocation, and verified POST and OS installation without component damage.",
+        "Showcased in the Mira Loma High School MYP STEM exhibition (no public IB score is available)."
+      ],
+      "useful_lesson": "Stepwise out-of-chassis testing (breadboarding) prior to permanent installation minimizes troubleshooting time for faulty motherboard headers or bad RAM seating.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1ho4rGAqtAh_FLjo7VEs5OwVNAMU0Z9ZWT5PCJueWCjQ/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase STEM Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/stem"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "slug": "budget-expandable-gaming-pc",
+      "title": "Expandable Modular Gaming PC Architecture",
+      "case_type": "success",
+      "classification": "Topic: Computer engineering & modular hardware design / budget optimization Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 Fabrication entry; showcase-only",
+      "topic": "Computer engineering & modular hardware design / budget optimization",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 Fabrication entry; showcase-only",
+      "project_summary": "Goal: Design and assemble a budget-constrained gaming computer architected specifically for staged, long-term modular component upgrades. Product: A balance-optimized desktop PC built on an expandable motherboard platform with high-capacity power headroom for future GPU scaling.",
+      "goal": "Design and assemble a budget-constrained gaming computer architected specifically for staged, long-term modular component upgrades.",
+      "product": "A balance-optimized desktop PC built on an expandable motherboard platform with high-capacity power headroom for future GPU scaling.",
+      "report_path": "pp-success-case/59-budget-expandable-gaming-pc/59-report.md",
+      "success_evidence": [
+        "Carefully balanced price-to-performance metrics while avoiding proprietary form factor lock-in.",
+        "Completed system assembly, BIOS configuration, and stress testing, earning showcase publication (no public IB score is available)."
+      ],
+      "useful_lesson": "Investing in a reliable, over-spec power supply unit and an open standard motherboard form factor preserves upgradability across hardware generations.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/1g3ICZD0Jgy2ebe53UtIhO4cN_07lF0_mg2NNsKZuTfk/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Fabrication Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/fabricationconstruction"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "slug": "retrospice-ecommerce-portal",
+      "title": "RetroSpice E-Commerce Web Store",
+      "case_type": "success",
+      "classification": "Topic: Web engineering & digital commerce / business technology Evidence status: Official San Juan USD MYP Personal Project Showcase 2020/2021 Fabrication entry; showcase-only",
+      "topic": "Web engineering & digital commerce / business technology",
+      "evidence_status": "Official San Juan USD MYP Personal Project Showcase 2020/2021 Fabrication entry; showcase-only",
+      "project_summary": "Goal: Develop and deploy a fully functional e-commerce web platform integrating online storefront architecture, inventory catalogs, and pricing models. Product: RetroSpice, a live online boutique web store featuring branded merchandise catalogs, responsive cart navigation, and digital checkout flows.",
+      "goal": "Develop and deploy a fully functional e-commerce web platform integrating online storefront architecture, inventory catalogs, and pricing models.",
+      "product": "RetroSpice, a live online boutique web store featuring branded merchandise catalogs, responsive cart navigation, and digital checkout flows.",
+      "report_path": "pp-success-case/60-retrospice-ecommerce-portal/60-report.md",
+      "success_evidence": [
+        "Integrated product photography, digital catalog structures, and commercial checkout pipelines into a cohesive platform.",
+        "Exhibited at the Mira Loma High School MYP Personal Project Showcase (no public IB score is available)."
+      ],
+      "useful_lesson": "Building an e-commerce platform requires tight alignment between digital inventory data structures and responsive user checkout interfaces.",
+      "sources": [
+        {
+          "label": "Showcase Presentation Slide Deck",
+          "url": "https://docs.google.com/presentation/d/15hXchBzJeXSeluVPMbbQROdpOrV2ENSEBSVdbaNsrSc/present"
+        },
+        {
+          "label": "San Juan USD MYP Showcase Fabrication Section",
+          "url": "https://sites.google.com/sanjuan.edu/myp-personal-project-showcase-/fabricationconstruction"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "slug": "reinforcement-learning-game-ai",
+      "title": "Deep Reinforcement Learning Game-Playing Agent",
+      "case_type": "success",
+      "classification": "Topic: Artificial intelligence & machine learning / reinforcement learning Evidence status: Primary open-source codebase & recorded video demonstrations; showcase-only",
+      "topic": "Artificial intelligence & machine learning / reinforcement learning",
+      "evidence_status": "Primary open-source codebase & recorded video demonstrations; showcase-only",
+      "project_summary": "Goal: Research Sutton & Barto RL fundamentals to create a custom 2D simulation environment and train an autonomous AI agent using neural networks. Product: An original Python game environment alongside Deep Q-Network (DQN) agents trained to navigate obstacles and optimize survival rewards.",
+      "goal": "Research Sutton & Barto RL fundamentals to create a custom 2D simulation environment and train an autonomous AI agent using neural networks.",
+      "product": "An original Python game environment alongside Deep Q-Network (DQN) agents trained to navigate obstacles and optimize survival rewards.",
+      "report_path": "pp-success-case/61-reinforcement-learning-game-ai/61-report.md",
+      "success_evidence": [
+        "Engineered custom reward functions, state-space vector arrays, and multi-layer neural networks from scratch.",
+        "Published reproducible code and multi-agent training demonstration logs (no public IB score is available)."
+      ],
+      "useful_lesson": "Normalizing input observation arrays and penalizing idle actions stabilizes deep reinforcement learning training convergence in custom environments.",
+      "sources": [
+        {
+          "label": "GitHub Repository",
+          "url": "https://github.com/RapidShinjuTheLord/Making-an-AI-to-play-my-game-for-me"
+        },
+        {
+          "label": "Project Video Demonstration",
+          "url": "https://www.youtube.com/watch?v=NZcOcnKrRLk"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "slug": "malets-machine-learning-tutor",
+      "title": "MALETS Machine Learning Interactive Tutorial",
+      "case_type": "success",
+      "classification": "Topic: Computer science education & GUI engineering / machine learning pedagogy Evidence status: Primary open-source software release; showcase-only",
+      "topic": "Computer science education & GUI engineering / machine learning pedagogy",
+      "evidence_status": "Primary open-source software release; showcase-only",
+      "project_summary": "Goal: Develop an interactive desktop application that introduces non-technical secondary students to foundational machine learning concepts. Product: MALETS (Machine Learning Tutorial Software), a Python and PyQt desktop program featuring visual algorithm walkthroughs and interactive datasets.",
+      "goal": "Develop an interactive desktop application that introduces non-technical secondary students to foundational machine learning concepts.",
+      "product": "MALETS (Machine Learning Tutorial Software), a Python and PyQt desktop program featuring visual algorithm walkthroughs and interactive datasets.",
+      "report_path": "pp-success-case/62-malets-machine-learning-tutor/62-report.md",
+      "success_evidence": [
+        "Combined complex statistical learning principles with an intuitive, guided graphical interface.",
+        "Deployed a complete standalone application bundle with bundled tutorial curricula (no public IB score is available)."
+      ],
+      "useful_lesson": "Decoupling educational explanatory text from algorithmic execution logic allows educators to update curriculum content without refactoring interface code.",
+      "sources": [
+        {
+          "label": "GitHub Repository",
+          "url": "https://github.com/tcontis/MALETS"
+        },
+        {
+          "label": "Product Documentation",
+          "url": "https://raw.githubusercontent.com/tcontis/MALETS/master/tutorial.txt"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "slug": "chemistry-interactive-simulations",
+      "title": "Interactive Web Chemistry Simulations",
+      "case_type": "success",
+      "classification": "Topic: Front-end software engineering & educational tech / scientific modeling Evidence status: Primary open-source web application; showcase-only",
+      "topic": "Front-end software engineering & educational tech / scientific modeling",
+      "evidence_status": "Primary open-source web application; showcase-only",
+      "project_summary": "Goal: Create an interactive web application rendering real-time particle and atomic reaction simulations for secondary science students. Product: A suite of browser-based chemistry simulations written in JavaScript, HTML5 Canvas, and CSS modeling molecular bonding and states of matter.",
+      "goal": "Create an interactive web application rendering real-time particle and atomic reaction simulations for secondary science students.",
+      "product": "A suite of browser-based chemistry simulations written in JavaScript, HTML5 Canvas, and CSS modeling molecular bonding and states of matter.",
+      "report_path": "pp-success-case/63-chemistry-interactive-simulations/63-report.md",
+      "success_evidence": [
+        "Built performant Canvas animation loops capable of updating dozens of interactive atomic particles concurrently.",
+        "Published open-source web code enabling direct browser experimentation (no public IB score is available)."
+      ],
+      "useful_lesson": "Leveraging native HTML5 Canvas drawing routines instead of DOM element manipulation yields superior frame-rate consistency for particle physics engines.",
+      "sources": [
+        {
+          "label": "GitHub Repository",
+          "url": "https://github.com/ScandinavianIdk/MYP-personal-Project"
+        },
+        {
+          "label": "Primary Codebase Archive",
+          "url": "https://github.com/ScandinavianIdk/MYP-personal-Project/tree/master/simulation_scripts"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "slug": "bluetooth-arduino-vehicle",
+      "title": "Bluetooth AWD Arduino Motorized Vehicle",
+      "case_type": "success",
+      "classification": "Topic: Embedded systems & robotics / wireless hardware communication Evidence status: Primary open-source firmware & hardware implementation; showcase-only",
+      "topic": "Embedded systems & robotics / wireless hardware communication",
+      "evidence_status": "Primary open-source firmware & hardware implementation; showcase-only",
+      "project_summary": "Goal: Build and program an all-wheel-drive (AWD) robotic vehicle controlled wirelessly via smartphone Bluetooth signals. Product: An autonomous/manual 4WD robotic vehicle powered by an Arduino microcontroller and HC-05 Bluetooth transceiver with custom serial firmware.",
+      "goal": "Build and program an all-wheel-drive (AWD) robotic vehicle controlled wirelessly via smartphone Bluetooth signals.",
+      "product": "An autonomous/manual 4WD robotic vehicle powered by an Arduino microcontroller and HC-05 Bluetooth transceiver with custom serial firmware.",
+      "report_path": "pp-success-case/64-bluetooth-arduino-vehicle/64-report.md",
+      "success_evidence": [
+        "Implemented robust serial communication decoding to translate incoming Bluetooth character commands into motor driver H-bridge state changes.",
+        "Completed physical fabrication and firmware deployment (no public IB score is available)."
+      ],
+      "useful_lesson": "Implementing a watchdog timer and default stop states on loss of wireless serial communication prevents runaway robotics accidents during testing.",
+      "sources": [
+        {
+          "label": "GitHub Repository",
+          "url": "https://github.com/Tooweisian/Programming-Made-Easy"
+        },
+        {
+          "label": "Arduino Firmware Source",
+          "url": "https://github.com/Tooweisian/Programming-Made-Easy/blob/master/FinalProject.ino"
+        }
+      ]
+    }
+  ]
+}
