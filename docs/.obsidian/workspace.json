@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6436c87af404ff38",
+            "id": "3903f98ada409fd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,17 +25,44 @@
             "id": "bcbb642271be7d61",
             "type": "leaf",
             "state": {
+              "type": "pptx-reader-view",
+              "state": {
+                "file": "references/school-guidance/pp-academic-integrity.pptx"
+              },
+              "icon": "presentation",
+              "title": "pp-academic-integrity.pptx"
+            }
+          },
+          {
+            "id": "c1e4558cdf5830ba",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "research/pp-identification/pp-identification.md.md",
+                "file": "project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pp-identification.md"
+              "title": "project"
+            }
+          },
+          {
+            "id": "fd3c66de12d61bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/pp-identification/pp-identification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pp-identification"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans/phase-00.md",
+                "file": "research/pp-identification/pp-identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,22 +228,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6436c87af404ff38",
+  "active": "fd3c66de12d61bee",
   "lastOpenFiles": [
-    "research/pp-identification/pp-identification.md.md",
-    "plans/phase-00.md",
-    "references/school-submissions/pp-initial-ideas.docx",
-    "references/school-guidance/pp-instruction-2.pptx",
-    "references/school-guidance/pp-instruction-1.pptx",
-    "references/school-guidance/pp-initial-ideas.docx",
-    "references/school-guidance/pp-crit-b-atl.pptx",
-    "references/school-guidance/pp-atl-skills.pptx",
-    "references/school-guidance/g10-pp-atl-skills.pptx",
-    "references/school-guidance/g10-pp-crit-b-atl.pptx",
-    "references/school-guidance/g10-pp-initial-ideas.docx",
-    "references/school-guidance/g10-pp-instruction-1.pptx",
-    "plans/phase-00-roadmap.md",
     "project.md",
+    "research/pp-identification/pp-identification.md",
+    "references/school-guidance/pp-us-academic-integrity-policy.docx",
+    "references/school-guidance/pp-academic-integrity.pptx",
+    "references/school-guidance/pp-crit-a-planning.pptx",
+    "references/school-guidance/pp-atl-skills.pptx",
+    "plans/phase-00.md",
+    "references/school-guidance/pp-crit-b-atl.pptx",
+    "references/school-guidance/pp-crit-a-templates.pptx",
+    "references/school-guidance/pp-initial-ideas.docx",
+    "references/school-guidance/pp-student-handbook.pdf",
+    "references/school-guidance/pp-guide.pdf",
+    "references/school-guidance/pp-supervisor-communication.pptx",
+    "plans/phase-00-roadmap.md",
     "plans/initial-ideas.md",
     "Welcome.md"
   ]
