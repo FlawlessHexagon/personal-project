@@ -23,7 +23,25 @@
       "path": "references/school-guidance/g10-pp-initial-ideas.docx",
       "mtime": 1787734832152,
       "format": "docx",
-      "lastAccessed": 140,
+      "lastAccessed": 142,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1.2000000000000002,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "references/school-submissions/pp-initial-ideas.docx",
+      "mtime": 1788581837429,
+      "format": "docx",
+      "lastAccessed": 173,
       "position": {
         "scrollLeft": 0,
         "scrollTop": 0
