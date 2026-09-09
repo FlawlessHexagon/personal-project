@@ -7,11 +7,18 @@ Develop a structured, evidence-based understanding of the Personal Project’s p
 ## Steps
 
 1. Step 01: Elaboration
-   Establish purpose, scope, components, assessment expectations, and school-specific requirements.
+
+> Establish purpose, scope, components, assessment expectations, and school-specific requirements.
+
 2. Step 02: Success Case Research
-   Identify recurring strengths in successful projects.
+
+> Identify recurring strengths in successful projects.
+
 3. Step 03: Failure Case Research
-   Identify recurring weaknesses, risks, and misconceptions.
+
+> Identify recurring weaknesses, risks, and misconceptions.
+
 4. Step 04: Research Synthesis
-   Combine the findings into a coherent framework for Phase 1.
+
+> Combine the findings into a coherent framework for Phase 1.
 
