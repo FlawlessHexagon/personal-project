@@ -7,6 +7,8 @@
   - `references/` --> stores external source material
   - `research/` --> stores information produced from investigation or analysis
   - `plans/` --> defines intended future work
+    - `phases/` --> stores phase plans
+    - `project-definition.md` --> defines the selected project direction
 - `README.md`
 - `LICENSE`
 - `.gitignore`
