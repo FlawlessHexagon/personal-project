@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "8395b7383f02ae1b",
+            "id": "8ca99b78bd594135",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "7f3e98fa4ddf3b94",
+            "id": "8395b7383f02ae1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +216,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f3e98fa4ddf3b94",
+  "active": "8ca99b78bd594135",
   "lastOpenFiles": [
     "plans/phases/phase-00.md",
-    "plans/phases/phase-01.md",
     "plans/project-definition.md",
+    "plans/phases/phase-01.md",
+    "feedback/01-panel/panel-notes.jpeg",
+    "feedback/01-panel/panel-denis.jpeg",
+    "feedback/01-panel/panel-chris.jpeg",
+    "feedback/01-panel/panel-chris-spline.svg",
+    "feedback/01-panel/panel-notes-pixel.svg",
+    "feedback/01-panel/panel-denis-pixel.svg",
+    "feedback/01-panel/panel-chris-pixel.svg",
+    "feedback/01-panel/panel-chris.svg",
+    "feedback/01-panel/panel-notes.svg",
+    "feedback/01-panel/panel-denis.svg",
+    "feedback/01-panel",
     "research/pp-identification/pp-elaboration.md",
     "feedback/2026-09-17-project-definition-feedback.md",
     "feedback",
@@ -245,14 +256,12 @@
     "research/pp-identification/pp-failure-case/02-drone-racing-budget-overrun",
     "research/pp-identification/pp-failure-case/01-video-games-violence",
     "research/pp-identification/pp-success-case/64-bluetooth-arduino-vehicle/64-report.md",
-    "research/pp-identification/pp-success-case/64-bluetooth-arduino-vehicle",
     "research/pp-identification/pp-success-case/63-chemistry-interactive-simulations/63-report.md",
     "research/pp-identification/pp-success-case/62-malets-machine-learning-tutor/62-report.md",
     "research/pp-identification/pp-success-case/61-reinforcement-learning-game-ai/61-report.md",
     "research/pp-identification/pp-success-case/60-retrospice-ecommerce-portal/60-report.md",
     "research/pp-identification/pp-success-case/59-budget-expandable-gaming-pc/59-report.md",
     "research/pp-identification/pp-success-case/58-desktop-computer-fabrication/58-report.md",
-    "research/pp-identification/pp-success-case/57-diy-custom-quadcopter-drone/57-report.md",
-    "research/pp-identification/pp-success-case/56-first-aid-help-app/56-report.md"
+    "research/pp-identification/pp-success-case/57-diy-custom-quadcopter-drone/57-report.md"
   ]
 }
