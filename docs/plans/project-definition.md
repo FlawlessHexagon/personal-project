@@ -16,3 +16,7 @@
 ### Learning Goal
 
 > To learn how to harness and optimize on-device large language models for practical real-world applications by investigating how model selection, quantization, prompt design, and context management affect response quality and device resource use.
+
+### Product Goal
+
+> To create a functional, privacy-first note-taking application that captures information through written notes, AI-assisted conversations, and voice memos, then uses on-device large language models to organize, connect, and retrieve the stored information.
