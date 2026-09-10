@@ -11,3 +11,8 @@
 > Late 2024, following the release of MCP - Model Context Protocol - by Anthropic, my interests expanded to artificial intelligence and agentic infrastructure. The release of this new powerful tool for large language models led to the era of agentic artificial intelligence, allowing it to function as a fully capable assistant that has access to broad context and practical tools. 
 
 > What this event truly taught me was the importance of harness around raw models. It was a transition from maximizing raw model intelligence, to providing the appropriate environment, set of tools, and ports for certain models to perform at its highest capabilities at given constrained circumstances. To put it simple, instead of squishing in a giant model to get the performance needed, skilled harness engineering allows much smaller models to perform at the same level or complete tasks that are impossible without them in a more limited environment - like a mobile device. I became deeply interested in this area, and have been expanding my knowledge and insight in this area since then.
+## b) Initial Draft
+
+### Learning Goal
+
+> To learn how to harness and optimize on-device large language models for practical real-world applications by investigating how model selection, quantization, prompt design, and context management affect response quality and device resource use.
