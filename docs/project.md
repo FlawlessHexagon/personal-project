@@ -15,18 +15,17 @@
 
 ## Progression Architecture
 
-**Stage**
+### Stage
 
 A broad period of project development that groups related phases under a shared purpose.
 
-**Phase**
+### Phase
 
 A focused unit within a stage, defined by an objective, ordered steps, and completion criteria.
 
 - Name
 - Objective
 - Steps
-- Completion Criteria
 
 ## Shared Conventions
 
