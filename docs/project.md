@@ -7,6 +7,7 @@
   - `references/` --> stores external source material
   - `research/` --> stores information produced from investigation or analysis
   - `plans/` --> defines intended future work
+  - `feedback/` --> stores feedback from meetings
     - `phases/` --> stores phase plans
     - `project-definition.md` --> defines the selected project direction
 - `README.md`
