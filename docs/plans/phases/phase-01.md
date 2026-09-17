@@ -25,5 +25,3 @@ Define a focused, personally meaningful, and feasible Personal Project direction
 5. Define Project
 
 > Revise the developing goals where appropriate, then establish the working title, purpose, intended audience, and broad scope in `docs/plans/project-definition.md`.
-
-## Completion Criteria
