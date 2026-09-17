@@ -20,3 +20,5 @@
 ### Product Goal
 
 > To create a functional, privacy-first note-taking application that captures information through written notes, AI-assisted conversations, and voice memos, then uses on-device large language models to organize, connect, and retrieve the stored information.
+
+## c) Panel Feedback
