@@ -32,3 +32,8 @@
 - consider the simpler language when applicable
 
 ### Processed Feedback
+
+> Verdict: On the right track but work needed
+
+- Simplify the language in order to approach broader audience; consider most IB examiners don't expertise in this area
+- Create a date-specific action plan in order to ensure project completion by deadline
