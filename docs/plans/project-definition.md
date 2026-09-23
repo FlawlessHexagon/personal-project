@@ -40,9 +40,14 @@
 
 ## d) Project Definition
 
+### Title
+
+> AI Notes App: Persistent Memory Around Small Language Models
+
 ### Learning Goal
 
 > To learn how small language models can be made reliable and persistent within a phone’s limited resources by investigating how model selection, quantization, context management, and prompt design affect memory retention, factual grounding, and response performance on a real device.
+
 ### Product Goal
 
 > To create a minimal Android notes app that uses small language models running on-device to organize notes, answer questions grounded in stored information, and use that information proactively when relevant.
