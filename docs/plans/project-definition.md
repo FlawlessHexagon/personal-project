@@ -53,3 +53,11 @@
 ### Product Goal
 
 > To create a minimal Android notes app that uses small language models running on-device to organize notes, answer questions grounded in stored information, and use that information proactively when relevant.
+
+### Purpose
+
+> TBD
+
+### Intended Audience
+
+> TBD
