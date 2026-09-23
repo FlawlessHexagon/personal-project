@@ -12,6 +12,8 @@
 
 > What this event truly taught me was the importance of harness around raw models. It was a transition from maximizing raw model intelligence, to providing the appropriate environment, set of tools, and ports for certain models to perform at its highest capabilities at given constrained circumstances. To put it simple, instead of squishing in a giant model to get the performance needed, skilled harness engineering allows much smaller models to perform at the same level or complete tasks that are impossible without them in a more limited environment - like a mobile device. I became deeply interested in this area, and have been expanding my knowledge and insight in this area since then.
 
+> My knowledge in this area extends to context management, the machine learning mechanisms behind language models, quantization, and more - but not to a level of deep professionalism. It is sufficient for troubleshooting language models, improving their responses, and choosing appropriate models for varying circumstances, yet falls short of genuine comprehension of the technical details. This gap in both knowledge and experience has stopped me from developing this career-oriented interest further. However, given this opportunity to spend a good amount of time on a single project, gaining both professional knowledge and practical experience becomes possible through the creation of my own harness.
+
 ## b) Initial Draft
 
 ### Learning Goal
