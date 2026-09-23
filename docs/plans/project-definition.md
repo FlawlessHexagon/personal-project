@@ -37,3 +37,10 @@
 
 - Simplify the language in order to approach broader audience; consider most IB examiners don't expertise in this area
 - Create a date-specific action plan in order to ensure project completion by deadline
+
+## d) Project Definition
+
+### Learning Goal
+
+> To learn how small language models can be made reliable and persistent within a phone’s limited resources by investigating how model selection, quantization, context management, and prompt design affect memory retention, factual grounding, and response performance on a real device.
+### Product Goal
