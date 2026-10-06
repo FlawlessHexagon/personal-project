@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "research_type": "success-criteria-formats",
+  "research_date": "2026-10-06",
+  "record_count": 10,
+  "scope_note": "Criteria formats and related evaluation, evidence organization, goal-setting, and prioritization approaches; not ten mutually exclusive criteria formats. Reports are canonical; this index contains retrieval metadata.",
+  "records": [
+    {
+      "id": "01",
+      "slug": "rubric",
+      "title": "Rubric",
+      "classification": "Criteria format",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-rubric.md",
+      "sources": [
+        {
+          "label": "Carnegie Mellon Eberly Center",
+          "url": "https://www.cmu.edu/teaching/assessment/assesslearning/rubrics.html"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "acceptance-criteria",
+      "title": "Acceptance Criteria",
+      "classification": "Criteria format",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-acceptance-criteria.md",
+      "sources": [
+        {
+          "label": "Atlassian",
+          "url": "https://www.atlassian.com/work-management/project-management/acceptance-criteria/"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "given-when-then",
+      "title": "Given–When–Then Scenarios",
+      "classification": "Criteria format",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-given-when-then.md",
+      "sources": [
+        {
+          "label": "Cucumber",
+          "url": "https://cucumber.io/docs/gherkin/reference/"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "requirements-verification-matrix",
+      "title": "Requirements Verification Matrix",
+      "classification": "Evidence organization format",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-requirements-verification-matrix.md",
+      "sources": [
+        {
+          "label": "NASA",
+          "url": "https://www.nasa.gov/reference/appendix-d-requirements-verification-matrix/"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "usability-metrics",
+      "title": "Usability Metrics and Targets",
+      "classification": "Evaluation method with target-based criteria",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-usability-metrics.md",
+      "sources": [
+        {
+          "label": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/articles/usability-metrics/"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "service-level-objectives",
+      "title": "Service-Level Objectives",
+      "classification": "Reliability measurement framework",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-service-level-objectives.md",
+      "sources": [
+        {
+          "label": "Google SRE",
+          "url": "https://sre.google/workbook/implementing-slos/"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "definition-of-done",
+      "title": "Definition of Done",
+      "classification": "Completion checklist framework",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-definition-of-done.md",
+      "sources": [
+        {
+          "label": "Atlassian",
+          "url": "https://www.atlassian.com/agile/project-management/definition-of-done"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "ux-benchmarking",
+      "title": "UX Benchmarking and Baseline Comparison",
+      "classification": "Comparative evaluation method",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-ux-benchmarking.md",
+      "sources": [
+        {
+          "label": "Nielsen Norman Group",
+          "url": "https://www.nngroup.com/articles/benchmarking-ux/"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "objectives-and-key-results",
+      "title": "Objectives and Key Results",
+      "classification": "Outcome goal framework",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-objectives-and-key-results.md",
+      "sources": [
+        {
+          "label": "Atlassian",
+          "url": "https://www.atlassian.com/team-playbook/plays/okrs"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "moscow-prioritization",
+      "title": "MoSCoW Prioritization",
+      "classification": "Supporting prioritization method",
+      "evidence_status": "Primary-source guidance",
+      "report_path": "ai-research-moscow-prioritization.md",
+      "sources": [
+        {
+          "label": "Agile Business Consortium",
+          "url": "https://www.agilebusiness.org/resource/what-is-moscow-prioritization/"
+        }
+      ]
+    }
+  ],
+  "research_method": "ai-driven-research"
+}

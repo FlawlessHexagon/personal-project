@@ -33,6 +33,7 @@ A focused unit within a stage, defined by an objective, ordered steps, and compl
 - Authored documentation uses Markdown and belongs under `docs/` according to purpose; external materials under `references/` or `research/` may retain original formats.
 - File and directory names use `lower-kebab-case`; source-code paths follow the established conventions of their language, framework, or toolchain.
 - Tool-generated and externally sourced filenames should not be renamed when doing so could break compatibility or provenance.
+- AI-produced research artifacts, including deep research reports, analysis, and research indexes, use the filename prefix `ai-research-` (for example, `ai-research-acceptance-criteria.md`).
 - Dates use the ISO `YYYY-MM-DD` format.
 - Internal links use relative Markdown paths so they work in both Obsidian and Git.
 - Each subject has one canonical document; duplicate formats are created only when submission or compatibility requires them.
