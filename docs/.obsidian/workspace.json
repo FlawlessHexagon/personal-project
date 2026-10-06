@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "3827e75555a99a5b",
+  "active": "e45b7ef5a3b456a6",
   "lastOpenFiles": [
     "plans/phases/phase-01.md",
-    "plans/phases/phase-00.md",
     "plans/phases/phase-02.md",
-    "project.md",
+    "research/pp-identification/pp-success-case.zip",
+    "plans/phases/phase-00.md",
     "plans/project-definition.md",
+    "project.md",
     "feedback/01-panel/panel-notes.jpeg",
     "feedback/01-panel/panel-denis.jpeg",
     "feedback/01-panel/panel-chris.jpeg",
@@ -281,7 +282,6 @@
     "research/pp-identification/pp-failure-case/02-drone-racing-budget-overrun/02-report.md",
     "research/pp-identification/pp-failure-case/01-video-games-violence/01-report.md",
     "research/pp-identification/pp-failure-case/02-drone-racing-budget-overrun",
-    "research/pp-identification/pp-failure-case/01-video-games-violence",
     "research/pp-identification/pp-success-case/64-bluetooth-arduino-vehicle/64-report.md",
     "research/pp-identification/pp-success-case/63-chemistry-interactive-simulations/63-report.md",
     "research/pp-identification/pp-success-case/62-malets-machine-learning-tutor/62-report.md",

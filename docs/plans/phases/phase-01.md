@@ -2,7 +2,7 @@
 
 ## Objective
 
-Define a focused, personally meaningful, and feasible Personal Project direction by establishing a working title, distinct learning and product goals, purpose, intended audience, and broad scope.
+Define a focused, personally meaningful, and feasible Personal Project direction by establishing a working title, distinct learning and product goals, purpose, and intended audience.
 
 ## Steps
 
