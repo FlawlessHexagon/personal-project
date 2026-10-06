@@ -7,7 +7,7 @@ The examples below are copied from the research reports’ illustrative applicat
 1. Rubric
 
 > Description: A table that evaluates each criterion against descriptions of different quality levels.
-> Example: Answer grounding: unsupported / partly supported / fully supported, with explicit descriptions for each.
+> Example: Answer grounding -> unsupported / partly supported / fully supported, with explicit descriptions for each.
 
 2. Acceptance Criteria
 
@@ -23,6 +23,15 @@ The examples below are copied from the research reports’ illustrative applicat
 
 > Description: A table that links each requirement to its source and the method used to verify it.
 > Example: PR-01 | Notes remain on-device during specified operations | Privacy purpose | Data-flow inspection and network observation.
+> Components:
+> - ID
+> - Requirement
+> - Justification
+> - Priority
+> - Passing Condition
+> - Verification Method
+> - Evidence
+> - Status
 
 5. Usability Metrics and Targets
 
@@ -59,4 +68,37 @@ The examples below are copied from the research reports’ illustrative applicat
 > - Could Have: an additional organization visualization. 
 > - Each still needs its own acceptance condition.
 
-## b) 
+## b) Hybrid Structure: Nested
+
+```
+Requirements Verification Matrix
+├── Requirement Record 01
+│   ├── ID
+│   ├── Requirement
+│   ├── Justification
+│   ├── Priority
+│   ├── Passing Condition
+│   ├── Verification Method
+│   ├── Evidence
+│   └── Status
+├── Requirement Record 02
+│   ├── ID
+│   ├── Requirement
+│   ├── Justification
+│   ├── Priority
+│   ├── Passing Condition
+│   ├── Verification Method
+│   ├── Evidence
+│   └── Status
+└── Requirement Record 03
+    ├── ID
+    ├── Requirement
+    ├── Justification
+    ├── Priority
+    ├── Passing Condition
+    ├── Verification Method
+    ├── Evidence
+    └── Status
+```
+
+> The Requirements Verification Matrix contains individual Requirement Records, each defining one product requirement using a suitable success criteria format from the researched approaches.
