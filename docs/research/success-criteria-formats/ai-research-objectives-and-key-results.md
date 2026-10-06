@@ -2,6 +2,10 @@
 
 > AI-driven research: compiled and analyzed with AI assistance. Source-supported findings and AI-generated interpretations are distinguished in the research; claims should be checked against the cited sources.
 
+## General Description
+
+A framework that pairs an overall objective with measurable results showing whether it has been achieved.
+
 ## Classification
 - Type: Outcome goal framework
 - Evidence status: Primary-source guidance; not a student success case or proof of assessment results

@@ -71,9 +71,3 @@ These judgments are analysis of suitability, not comparative effectiveness demon
 6. Distinguish functional correctness, repeated reliability, usability, and user benefit.
 7. Use simple identifiers to connect criteria, tests, and later reflection.
 8. Avoid borrowing the administrative complexity of larger engineering frameworks.
-
-## f) Implications for Phase 02 Step 2
-
-Candidate elements for a hybrid format are requirement identifiers, purpose or audience justification, observable acceptance conditions, evaluation methods, and recorded evidence. Scenarios, numerical targets, quality descriptions, and priorities may be added where useful.
-
-This is a shortlist for the next design discussion, not an established final format.

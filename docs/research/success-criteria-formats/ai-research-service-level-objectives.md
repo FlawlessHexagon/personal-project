@@ -2,6 +2,10 @@
 
 > AI-driven research: compiled and analyzed with AI assistance. Source-supported findings and AI-generated interpretations are distinguished in the research; claims should be checked against the cited sources.
 
+## General Description
+
+Measurable targets for reliability or performance over a defined period or set of trials.
+
 ## Classification
 - Type: Reliability measurement framework
 - Evidence status: Primary-source guidance; not a student success case or proof of assessment results

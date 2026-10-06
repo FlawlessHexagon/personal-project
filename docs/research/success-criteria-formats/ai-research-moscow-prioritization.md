@@ -2,6 +2,10 @@
 
 > AI-driven research: compiled and analyzed with AI assistance. Source-supported findings and AI-generated interpretations are distinguished in the research; claims should be checked against the cited sources.
 
+## General Description
+
+A method that groups requirements as Must Have, Should Have, Could Have, or Won’t Have this time; it sets priority rather than passing conditions.
+
 ## Classification
 - Type: Supporting prioritization method
 - Evidence status: Primary-source guidance; not a student success case or proof of assessment results
