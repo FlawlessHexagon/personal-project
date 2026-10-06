@@ -56,8 +56,8 @@
 
 ### Purpose
 
-> TBD
+> To help users turn their notes into useful personal memory with less effort spent organizing and retrieving information, while keeping their notes on their own device through on-device AI.
 
 ### Intended Audience
 
-> TBD
+> Android users who want to organize their information but find it difficult to start, stay consistent, or devote enough time to maintaining an organization system, especially those hesitant to use AI because of concerns about how their personal information is collected, used, or potentially misused.
