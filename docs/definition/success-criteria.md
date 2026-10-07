@@ -2,14 +2,14 @@
 
 ## Requirement Records Table
 
-| **ID** | **Title**                      | **Description**                                                                      | **Type**            | **Priority** | **Justification** | **Passing Condition**        | **Evidence** | **Status**  |
-| ------ | ------------------------------ | ------------------------------------------------------------------------------------ | ------------------- | ------------ | ----------------- | ---------------------------- | ------------ | :---------- |
-| SC-01  | Basic application functions    | Create, view, edit, and delete notes                                                 | Acceptance criteria | 1            |                   | All acceptance criteria pass |              | Not checked |
-| SC-02  | Data preservation and recovery | Export and restore notes through a file                                              | Acceptance criteria | 2            |                   | All acceptance criteria pass |              | Not checked |
-| SC-03  | Privacy and offline operation  | Store and process notes locally without requiring an internet connection after setup | Acceptance criteria | 1            |                   | All acceptance criteria pass |              | Not checked |
-| SC-04  |                                |                                                                                      |                     |              |                   |                              |              | Not checked |
-| SC-05  |                                |                                                                                      |                     |              |                   |                              |              | Not checked |
-| SC-06  |                                |                                                                                      |                     |              |                   |                              |              | Not checked |
+| **ID** | **Title**                      | **Description**                                                                      | **Type**            | **Priority** | **Justification** | **Passing Condition**                               | **Evidence** | **Status**  |
+| ------ | ------------------------------ | ------------------------------------------------------------------------------------ | ------------------- | ------------ | ----------------- | --------------------------------------------------- | ------------ | :---------- |
+| SC-01  | Basic application functions    | Create, view, edit, and delete notes                                                 | Acceptance criteria | 1            |                   | All acceptance criteria pass                        |              | Not checked |
+| SC-02  | Data preservation and recovery | Export and restore notes through a file                                              | Acceptance criteria | 2            |                   | All acceptance criteria pass                        |              | Not checked |
+| SC-03  | Privacy and offline operation  | Store and process notes locally without requiring an internet connection after setup | Acceptance criteria | 1            |                   | All acceptance criteria pass                        |              | Not checked |
+| SC-04  | Long context understanding     | Understand and use information provided in long contexts                             | Benchmark           | 1            |                   | Achieve at least # on the selected LongBench tasks. |              | Not checked |
+| SC-05  |                                |                                                                                      |                     |              |                   |                                                     |              | Not checked |
+| SC-06  |                                |                                                                                      |                     |              |                   |                                                     |              | Not checked |
 
 ## Entires
 
@@ -40,7 +40,15 @@
 | SC-03-03 | Local processing       | Note contents and questions are processed locally and are not transmitted to external services.   | Not checked |
 | SC-03-04 | Transparency           | Setup clearly explains all required downloads, their purpose, and when internet access is needed. | Not checked |
 
-### SC-04:
+### SC-04: Long context understanding - Benchmark
+
+| **Field**      | **Details**                                            |
+| -------------- | ------------------------------------------------------ |
+| Benchmark      | [LongBench Github](https://github.com/THUDM/LongBench) |
+| Version        | TBD                                                    |
+| Selected tasks | TBD                                                    |
+| Scoring method | TBD                                                    |
+| Target score   | TBD                                                    |
 
 ### SC-05:
 
