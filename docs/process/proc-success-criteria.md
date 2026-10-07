@@ -1,4 +1,4 @@
-# Success Criteria
+# Success Criteria Process
 
 ## a) Researched Formats
 
@@ -25,9 +25,10 @@ The examples below are copied from the research reports’ illustrative applicat
 > Example: PR-01 | Notes remain on-device during specified operations | Privacy purpose | Data-flow inspection and network observation.
 > Components:
 > - ID
-> - Requirement
-> - Justification
+> - Title
+> - Description
 > - Priority
+> - Justification
 > - Passing Condition
 > - Verification Method
 > - Evidence
@@ -74,31 +75,37 @@ The examples below are copied from the research reports’ illustrative applicat
 Requirements Verification Matrix
 ├── Requirement Record 01
 │   ├── ID
-│   ├── Requirement
-│   ├── Justification
+│   ├── Title
+│   ├── Description
 │   ├── Priority
+│   ├── Justification
 │   ├── Passing Condition
-│   ├── Verification Method
 │   ├── Evidence
 │   └── Status
 ├── Requirement Record 02
 │   ├── ID
-│   ├── Requirement
-│   ├── Justification
+│   ├── Title
+│   ├── Description
 │   ├── Priority
+│   ├── Justification
 │   ├── Passing Condition
-│   ├── Verification Method
 │   ├── Evidence
 │   └── Status
 └── Requirement Record 03
     ├── ID
-    ├── Requirement
-    ├── Justification
+    ├── Title
+    ├── Description
     ├── Priority
+    ├── Justification
     ├── Passing Condition
-    ├── Verification Method
     ├── Evidence
     └── Status
 ```
 
 > The Requirements Verification Matrix contains individual Requirement Records, each defining one product requirement using a suitable success criteria format from the researched approaches.
+
+Description replaces the Requirement field; Passing Condition specifies the result needed to verify it.
+
+## c) Develop Product Success Criteria
+
+Define measurable product requirements using the selected nested structure, including justification, priority, passing conditions, and verification methods. Consolidate the finalized records in the [product success criteria](../definition/success-criteria.md).
