@@ -2,14 +2,14 @@
 
 ## Requirement Records Table
 
-| **ID** | **Title**                      | **Description**                                                                      | **Type**            | **Priority** | **Justification** | **Passing Condition**                               | **Evidence** | **Status**  |
-| ------ | ------------------------------ | ------------------------------------------------------------------------------------ | ------------------- | ------------ | ----------------- | --------------------------------------------------- | ------------ | :---------- |
-| SC-01  | Basic application functions    | Create, view, edit, and delete notes                                                 | Acceptance criteria | 1            |                   | All acceptance criteria pass                        |              | Not checked |
-| SC-02  | Data preservation and recovery | Export and restore notes through a file                                              | Acceptance criteria | 2            |                   | All acceptance criteria pass                        |              | Not checked |
-| SC-03  | Privacy and offline operation  | Store and process notes locally without requiring an internet connection after setup | Acceptance criteria | 1            |                   | All acceptance criteria pass                        |              | Not checked |
-| SC-04  | Long context understanding     | Understand and use information provided in long contexts                             | Benchmark           | 1            |                   | Achieve at least # on the selected LongBench tasks. |              | Not checked |
-| SC-05  |                                |                                                                                      |                     |              |                   |                                                     |              | Not checked |
-| SC-06  |                                |                                                                                      |                     |              |                   |                                                     |              | Not checked |
+| **ID** | **Title**                      | **Description**                                                                      | **Type**                      | **Priority** | **Justification** | **Passing Condition**                                                     | **Evidence** | **Status**  |
+| ------ | ------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------- | ------------ | ----------------- | ------------------------------------------------------------------------- | ------------ | :---------- |
+| SC-01  | Basic application functions    | Create, view, edit, and delete notes                                                 | Acceptance criteria           | 1            |                   | All acceptance criteria pass                                              |              | Not checked |
+| SC-02  | Data preservation and recovery | Export and restore notes through a file                                              | Acceptance criteria           | 2            |                   | All acceptance criteria pass                                              |              | Not checked |
+| SC-03  | Privacy and offline operation  | Store and process notes locally without requiring an internet connection after setup | Acceptance criteria           | 1            |                   | All acceptance criteria pass                                              |              | Not checked |
+| SC-04  | Long context understanding     | Understand and use information provided in long contexts                             | Benchmark                     | 1            |                   | Achieve at least # on the selected LongBench tasks                        |              | Not checked |
+| SC-05  | Response performance           | Provide AI responses within acceptable waiting times on a target device              | Service-level objectives      | 2            |                   | Meet all defined response time targets across the specified test requests |              | Not checked |
+| SC-06  | User experience                |                                                                                      | Usability metrics and targets |              |                   |                                                                           |              | Not checked |
 
 ## Entires
 
@@ -50,6 +50,12 @@
 | Scoring method | TBD                                                    |
 | Target score   | TBD                                                    |
 
-### SC-05:
+### SC-05: Response performance - Service-level objectives
 
-### SC-06:
+| **ID**   | **Title**            | **Description**                                                    | **Target** | **Status**  |
+| -------- | -------------------- | ------------------------------------------------------------------ | ---------- | ----------- |
+| SC-05-01 | Model loading time   | Time from loading model until it is ready for a request            | TBD        | Not checked |
+| SC-05-02 | Time to first output | Time from submitting a question until the first output token       | TBD        | Not checked |
+| SC-05-03 | Total response time  | Time from submitting a question until the complete reponse appears | TBD        | Not checked |
+
+### SC-06: User experience - Usability metrics and targets
