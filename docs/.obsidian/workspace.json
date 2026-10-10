@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "540eeaa1ef858f31",
+        "id": "56dca3d7a08ca4c4",
         "type": "tabs",
         "children": [
           {
-            "id": "8ca99b78bd594135",
+            "id": "62d425d696bce695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project.md",
+                "file": "definition/project-definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project"
+              "title": "project-definition"
             }
           },
           {
-            "id": "e45b7ef5a3b456a6",
+            "id": "22748737e807997e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans/phases/phase-02.md",
+                "file": "feedback/02-first-supervisor-meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phase-02"
-            }
-          },
-          {
-            "id": "a01e5b3113bd98fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/success-criteria-formats/ai-research-acceptance-criteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ai-research-acceptance-criteria"
-            }
-          },
-          {
-            "id": "1b4267a342df403f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bibliography-raw.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bibliography-raw"
-            }
-          },
-          {
-            "id": "bf8bf6fac6559def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definition/success-criteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "success-criteria"
-            }
-          },
-          {
-            "id": "807e7f2288f5175c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "process/proc-success-criteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "proc-success-criteria"
+              "title": "02-first-supervisor-meeting"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,22 +212,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "bf8bf6fac6559def",
+  "active": "22748737e807997e",
   "lastOpenFiles": [
-    "process/proc-success-criteria.md",
     "definition/success-criteria.md",
+    "feedback/02-first-supervisor-meeting.md",
+    "definition/action-plan.md",
+    "definition/project-definition.md",
+    "definition/action-plan.csv",
+    "definition/Untitled.base",
+    "definition/success-criteria copy.md",
+    "file:/Users/home/Projects/00-school-g10/dz-design-studio/playgroud/output/shell/README.md",
+    "file:/Users/home/Downloads/worksheet-answer-key.md",
+    "file:/Users/home/Projects/00-school-g10/sc-un1-test-prep/unit-1-summary.md",
+    "process/proc-success-criteria-development.md",
+    "process/proc-success-criteria-framework.md",
     "bibliography-raw.md",
+    "plans/phases/phase-03.md",
     "plans/phases/phase-02.md",
     "research/success-criteria-formats/ai-research-acceptance-criteria.md",
-    "definition/project-definition.md",
+    "process/proc-project-definition.md",
+    "feedback/01-panel/panel-notes.jpeg",
+    "feedback/01-panel/panel-chris.jpeg",
     "plans/phases/phase-00.md",
     "plans/phases/phase-01.md",
-    "research/success-criteria-formats/ai-research-given-when-then.md",
     "project.md",
-    "process/proc-project-definition.md",
+    "research/success-criteria-formats/ai-research-given-when-then.md",
     "plans/success-criteria.md",
     "definition",
     "process",
@@ -293,26 +250,12 @@
     "bibliography",
     "research/success-criteria-formats/ai-research-moscow-prioritization.md",
     "research/success-criteria-formats/ai-research-objectives-and-key-results.md",
-    "research/success-criteria-formats/ai-research-ux-benchmarking.md",
-    "research/success-criteria-formats/ai-research-definition-of-done.md",
-    "research/success-criteria-formats/ai-research-service-level-objectives.md",
-    "research/success-criteria-formats/ai-research-usability-metrics.md",
-    "research/success-criteria-formats/ai-research-requirements-verification-matrix.md",
-    "research/success-criteria-formats/ai-research-success-criteria-formats-analysis.md",
-    "research/success-criteria-formats/ai-research-rubric.md",
-    "research/pp-identification/pp-success-case/ai-research-charity-chess-tournament.md",
-    "research/pp-identification/pp-success-case/ai-research-bhavya-chess-catalogue.md",
-    "research/pp-identification/pp-success-case/ai-research-astrophysics-interactive-site.md",
     "plans/success-criteria",
     "research/success-criteria-formats/ai-research-success-criteria-formats.json",
     "research/success-criteria-formats",
     "research/pp-identification/pp-failure-case/ai-research-failure-cases.json",
     "research/pp-identification/pp-failure-case",
-    "research/pp-identification/pp-success-case/ai-research-success-cases.json",
-    "research/pp-identification/pp-success-case",
-    "feedback/01-panel/panel-notes.jpeg",
     "feedback/01-panel/panel-denis.jpeg",
-    "feedback/01-panel/panel-chris.jpeg",
     "feedback/01-panel/panel-chris-spline.svg",
     "feedback/01-panel/panel-notes-pixel.svg",
     "feedback/01-panel/panel-denis-pixel.svg",
