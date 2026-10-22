@@ -1,4 +1,4 @@
-# Success Criteria Process
+# Success Criteria Framework Process
 
 ## a) Researched Formats
 
