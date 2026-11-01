@@ -2,14 +2,16 @@
 
 ## Requirement Records Table
 
-| **ID** | **Title**                      | **Description**                                                                      | **Type**                      | **Priority** | **Justification** | **Passing Condition**                                                     | **Evidence** | **Status**  |
-| ------ | ------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------- | ------------ | ----------------- | ------------------------------------------------------------------------- | ------------ | :---------- |
-| SC-01  | Basic application functions    | Create, view, edit, and delete notes                                                 | Acceptance criteria           | 1            |                   | All acceptance criteria pass                                              |              | Not checked |
-| SC-02  | Data preservation and recovery | Export and restore notes through a file                                              | Acceptance criteria           | 2            |                   | All acceptance criteria pass                                              |              | Not checked |
-| SC-03  | Privacy and offline operation  | Store and process notes locally without requiring an internet connection after setup | Acceptance criteria           | 1            |                   | All acceptance criteria pass                                              |              | Not checked |
-| SC-04  | Long context understanding     | Understand and use information provided in long contexts                             | Benchmark                     | 1            |                   | Achieve at least # on the selected LongBench tasks                        |              | Not checked |
-| SC-05  | Response performance           | Provide AI responses within acceptable waiting times on a target device              | Service-level objectives      | 2            |                   | Meet all defined response time targets across the specified test requests |              | Not checked |
-| SC-06  | User experience                | To create, organize, and retrieve notes easily without assistance                    | Usability metrics and targets | 1            |                   | Meet all defined usability targets in user testing                        |              | Not checked |
+| **ID** | **Title**                       | **Description**                                                                         | **Type**                      | **Priority** | **Justification** | **Passing Condition**                                                     | **Evidence** | **Status**  |
+| ------ | ------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------- | ------------ | ----------------- | ------------------------------------------------------------------------- | ------------ | :---------- |
+| SC-01  | Basic application functions     | Create, view, edit, and delete notes                                                    | Acceptance criteria           | 1            |                   | All acceptance criteria pass                                              |              | Not checked |
+| SC-02  | Data preservation and recovery  | Export and restore notes through a file                                                 | Acceptance criteria           | 2            |                   | All acceptance criteria pass                                              |              | Not checked |
+| SC-03  | Privacy and offline operation   | Store and process notes locally without requiring an internet connection after setup    | Acceptance criteria           | 1            |                   | All acceptance criteria pass                                              |              | Not checked |
+| SC-04  | Long context understanding      | Understand and use information provided in long contexts                                | Benchmark                     | 1            |                   | Achieve at least # on the selected LongBench tasks                        |              | Not checked |
+| SC-05  | Response performance            | Provide AI responses within acceptable waiting times on a target device                 | Service-level objectives      | 2            |                   | Meet all defined response time targets across the specified test requests |              | Not checked |
+| SC-06  | User experience                 | To create, organize, and retrieve notes easily without assistance                       | Usability metrics and targets | 1            |                   | Meet all defined usability targets in user testing                        |              | Not checked |
+| SC-07  | Persistent memory and grounding | Retain, update, and accurately ground answers in stored information across sessions     | Benchmark                     | 1            |                   | Achieve at least # on the selected LongMemEval tasks                      |              | Not checked |
+| SC-08  | Proactive assistance            | Utilize relevant stored information proactively when relevant without explicit requests | Benchmark                     | 2            |                   | Achieve at least # on the selected ProactiveBench tasks                   |              | Not checked |
 
 ## Entires
 
@@ -66,3 +68,23 @@
 | SC-06-02 | Information retrieve | Task: Find specified information in stored notes               | Percentage of users completing the task without help | TBD        | Not checked |
 | SC-06-03 | Note organization    | Task: Use AI organization, then correct an unwanted suggestion | Percentage of users completing the task without help | TBD        | Not checked |
 | SC-06-04 | Ease of use          | Question: “How easy was it to complete these tasks?”           | Rating on a scale from 1 to 5                        | TBD        | Not checked |
+
+### SC-07: Persistent Memory & Grounding - Benchmark
+
+| **Field**      | **Details**                                                     |
+| -------------- | --------------------------------------------------------------- |
+| Benchmark      | [LongMemEval Github](https://github.com/xiaowu0162/LongMemEval) |
+| Version        | TBD                                                             |
+| Selected tasks | TBD                                                             |
+| Scoring method | TBD                                                             |
+| Target score   | TBD                                                             |
+
+### SC-08: Proactive Assistance - Benchmark
+
+| **Field**      | **Details**                                                       |
+| -------------- | ----------------------------------------------------------------- |
+| Benchmark      | [ProactiveBench Github](https://github.com/thunlp/ProactiveAgent) |
+| Version        | TBD                                                               |
+| Selected tasks | TBD                                                               |
+| Scoring method | TBD                                                               |
+| Target score   | TBD                                                               |
