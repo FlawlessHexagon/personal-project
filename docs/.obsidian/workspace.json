@@ -22,6 +22,27 @@
             }
           },
           {
+            "id": "6ac73406e037c974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plans/phases/phase-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "phase-04"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "64ea4f997d6dfaa4",
+        "type": "tabs",
+        "children": [
+          {
             "id": "2199757c89e5226a",
             "type": "leaf",
             "state": {
@@ -34,23 +55,8 @@
               "icon": "lucide-file",
               "title": "phase-03"
             }
-          },
-          {
-            "id": "6ac73406e037c974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definition/success-criteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "success-criteria"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,12 +239,13 @@
   "active": "6ac73406e037c974",
   "lastOpenFiles": [
     "plans/phases/phase-03.md",
+    "plans/phases/phase-04.md",
+    "definition/action-plan.csv",
     "definition/success-criteria.md",
     "process/proc-success-criteria.md",
     "definition/action-plan.md",
     "definition/project-definition.md",
     "feedback/02-first-supervisor-meeting.md",
-    "definition/action-plan.csv",
     "definition/Untitled.base",
     "definition/success-criteria copy.md",
     "file:/Users/home/Projects/00-school-g10/dz-design-studio/playgroud/output/shell/README.md",
@@ -264,12 +271,10 @@
     "bibliography.md",
     "bibliography",
     "research/success-criteria-formats/ai-research-moscow-prioritization.md",
-    "research/success-criteria-formats/ai-research-objectives-and-key-results.md",
     "plans/success-criteria",
     "research/success-criteria-formats/ai-research-success-criteria-formats.json",
     "research/success-criteria-formats",
     "research/pp-identification/pp-failure-case/ai-research-failure-cases.json",
-    "research/pp-identification/pp-failure-case",
     "feedback/01-panel/panel-denis.jpeg",
     "feedback/01-panel/panel-chris-spline.svg",
     "feedback/01-panel/panel-notes-pixel.svg",
