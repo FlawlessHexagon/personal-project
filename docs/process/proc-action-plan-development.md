@@ -8,12 +8,34 @@
 2. Establish product success criteria
 3. Arrange action plan
 
-### Phase 02: Research and Design
+### Phase 02: Model and Harness Development
 
-### Phase 03: Development and Evaluation
+1. Research on-device models, runtimes, and quantization options
+2. Research persistent memory, context management, and grounding approaches
+3. Define evaluation tasks, test conditions, and thresholds for the relevant success criteria
+4. Build an experimental harness and establish baseline results on the target device
+5. Experiment with model and harness configurations
+6. Evaluate results and iteratively improve the harness
+7. Validate the selected model and harness against the required thresholds
+
+### Phase 03: Application Development and Evaluation
+
+1. Research and select an application framework compatible with the validated harness
+2. Design application architecture, local data storage, and core user flows
+3. Build core note-taking functions and integrate the harness
+4. Implement remaining product requirements by priority
+5. Evaluate the complete application against the success criteria, including user testing
+6. Address identified issues and repeat affected evaluations
+7. Complete product
 
 ### Phase 04: Reporting and Presentation
 
+1. Organize process evidence, experiment results, and product evaluation findings
+2. Complete full report draft
+3. Revise report using feedback
+4. Prepare showcase presentation and product demonstration
+5. Present at Personal Project showcase
+6. Finalize and submit report and bibliography
 ## Constraints
 
 ### School Deadlines
