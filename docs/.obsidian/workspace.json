@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "19c1bcd383bca8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plans/phases/phase-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "phase-04"
-            }
-          },
-          {
             "id": "84d1abb085607120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition/success-criteria.md",
+                "file": "bibliography-raw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "success-criteria"
+              "title": "bibliography-raw"
             }
           },
           {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,12 +244,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "ec61a273a31bb12d",
+  "active": "84d1abb085607120",
   "lastOpenFiles": [
-    "process/proc-action-plan-framework.md",
+    "feedback/02-first-supervisor-meeting/02-first-supervisor-meeting.eml",
+    "feedback/02-first-supervisor-meeting/02-first-supervisor-meeting.md",
+    "feedback/02-first-supervisor-meeting",
     "definition/success-criteria.md",
+    "research/success-criteria-formats/Untitled.md",
+    "bibliography-raw.md",
     "plans/phases/phase-04.md",
     "process/proc-action-plan-development.md",
+    "research/success-criteria-formats/ai-research-acceptance-criteria.md",
+    "feedback/02-first-supervisor-meeting.md",
+    "process/proc-action-plan-framework.md",
     "definition/project-definition.md",
     "plans/action-plan.csv",
     "plans/phases/phase-03.md",
@@ -273,31 +266,25 @@
     "definition/action-plan.csv",
     "process/proc-success-criteria.md",
     "definition/action-plan.md",
-    "feedback/02-first-supervisor-meeting.md",
     "definition/Untitled.base",
     "definition/success-criteria copy.md",
     "file:/Users/home/Projects/00-school-g10/dz-design-studio/playgroud/output/shell/README.md",
     "file:/Users/home/Downloads/worksheet-answer-key.md",
     "file:/Users/home/Projects/00-school-g10/sc-un1-test-prep/unit-1-summary.md",
-    "bibliography-raw.md",
     "plans/phases/phase-02.md",
-    "research/success-criteria-formats/ai-research-acceptance-criteria.md",
     "feedback/01-panel/panel-notes.jpeg",
     "feedback/01-panel/panel-chris.jpeg",
     "plans/phases/phase-00.md",
     "plans/phases/phase-01.md",
     "project.md",
     "research/success-criteria-formats/ai-research-given-when-then.md",
-    "plans/success-criteria.md",
     "definition",
     "process",
-    "plans/project-definition.md",
     "Untitled.canvas",
     "bibliography",
     "plans/success-criteria",
     "research/success-criteria-formats/ai-research-success-criteria-formats.json",
     "research/success-criteria-formats",
-    "research/pp-identification/pp-failure-case/ai-research-failure-cases.json",
     "feedback/01-panel/panel-denis.jpeg",
     "feedback/01-panel/panel-chris-spline.svg",
     "feedback/01-panel/panel-notes-pixel.svg",

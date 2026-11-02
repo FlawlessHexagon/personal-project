@@ -36,7 +36,6 @@
 4. Prepare showcase presentation and product demonstration
 5. Present at Personal Project showcase
 6. Finalize and submit report and bibliography
-
 ## Constraints
 
 ### School Deadlines
