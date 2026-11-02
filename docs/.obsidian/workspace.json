@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "6ac73406e037c974",
+            "id": "19c1bcd383bca8e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,29 +34,51 @@
               "icon": "lucide-file",
               "title": "phase-04"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "64ea4f997d6dfaa4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2199757c89e5226a",
+            "id": "84d1abb085607120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans/phases/phase-03.md",
+                "file": "definition/success-criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phase-03"
+              "title": "success-criteria"
+            }
+          },
+          {
+            "id": "ec61a273a31bb12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "process/proc-action-plan-development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proc-action-plan-development"
+            }
+          },
+          {
+            "id": "0f50865fdc8a1130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "process/proc-action-plan-framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proc-action-plan-framework"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,27 +258,30 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "6ac73406e037c974",
+  "active": "ec61a273a31bb12d",
   "lastOpenFiles": [
-    "plans/phases/phase-03.md",
-    "plans/phases/phase-04.md",
-    "definition/action-plan.csv",
+    "process/proc-action-plan-framework.md",
+    "process/proc-action-plan-development.md",
     "definition/success-criteria.md",
+    "plans/phases/phase-04.md",
+    "definition/project-definition.md",
+    "plans/action-plan.csv",
+    "plans/phases/phase-03.md",
+    "process/proc-project-definition.md",
+    "process/proc-success-criteria-framework.md",
+    "process/proc-success-criteria-development.md",
+    "definition/action-plan.csv",
     "process/proc-success-criteria.md",
     "definition/action-plan.md",
-    "definition/project-definition.md",
     "feedback/02-first-supervisor-meeting.md",
     "definition/Untitled.base",
     "definition/success-criteria copy.md",
     "file:/Users/home/Projects/00-school-g10/dz-design-studio/playgroud/output/shell/README.md",
     "file:/Users/home/Downloads/worksheet-answer-key.md",
     "file:/Users/home/Projects/00-school-g10/sc-un1-test-prep/unit-1-summary.md",
-    "process/proc-success-criteria-development.md",
-    "process/proc-success-criteria-framework.md",
     "bibliography-raw.md",
     "plans/phases/phase-02.md",
     "research/success-criteria-formats/ai-research-acceptance-criteria.md",
-    "process/proc-project-definition.md",
     "feedback/01-panel/panel-notes.jpeg",
     "feedback/01-panel/panel-chris.jpeg",
     "plans/phases/phase-00.md",
@@ -268,9 +293,7 @@
     "process",
     "plans/project-definition.md",
     "Untitled.canvas",
-    "bibliography.md",
     "bibliography",
-    "research/success-criteria-formats/ai-research-moscow-prioritization.md",
     "plans/success-criteria",
     "research/success-criteria-formats/ai-research-success-criteria-formats.json",
     "research/success-criteria-formats",
