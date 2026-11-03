@@ -58,3 +58,7 @@
 | Final Submission                                   | 2027/03/16 |
 
 ### Personal Schedules
+
+| **Event**   | **Date**                              |
+| ----------- | ------------------------------------- |
+| Visit Korea | 2026/12/27 - 2027/01/04 (Unconfirmed) |
