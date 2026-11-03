@@ -20,4 +20,4 @@ Create a realistic, date-specific action plan that sequences the remaining resea
 
 4. Finalize Action Plan
 
-> Assign realistic target dates and consolidate the schedule in [action-plan](../../plans/action-plan.csv).
+> Assign realistic target dates and consolidate the schedule in [action-plan](../../plans/action-plan.md).
