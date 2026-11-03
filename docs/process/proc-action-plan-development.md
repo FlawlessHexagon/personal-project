@@ -40,22 +40,22 @@
 
 ### School Deadlines
 
-| **Task**                                           | **Date**   |
-| -------------------------------------------------- | ---------- |
-| Initial Ideas                                      | 2026/09/02 |
-| Learning Goal, Product Goal, and Personal Interest | 2026/09/10 |
-| Product Success Criteria                           | 2026/10/08 |
-| First Meeting with Supervisor                      | 2026/10/09 |
-| Action Plan                                        | 2026/11/02 |
-| Research Plan and Log                              | 2026/11/10 |
-| Process Journal Check-in                           | 2026/11/19 |
-| Criterion A + B of Report and Bibliography Draft   | 2026/12/08 |
-| Second Meeting with Supervisor                     | 2026/12/17 |
-| Product Completed                                  | 2027/02/02 |
-| Report Draft Submission                            | 2027/02/08 |
-| Third Meeting with Supervisor                      | 2027/02/15 |
-| Showcase                                           | 2027/03/11 |
-| Final Submission                                   | 2027/03/16 |
+| **Task**                                           | **Preferred Completion Date** | **Date**   |
+| -------------------------------------------------- | ----------------------------- | ---------- |
+| Initial Ideas                                      | 2026-09-02                    | 2026/09/02 |
+| Learning Goal, Product Goal, and Personal Interest | 2026-09-10                    | 2026/09/10 |
+| Product Success Criteria                           | 2026-10-08                    | 2026/10/08 |
+| First Meeting with Supervisor                      | 2026-10-09                    | 2026/10/09 |
+| Action Plan                                        | 2026-11-05 (catch up)         | 2026/11/02 |
+| Research Plan and Log                              | 2026-11-09                    | 2026/11/10 |
+| Process Journal Check-in                           | 2026-11-18                    | 2026/11/19 |
+| Criterion A + B of Report and Bibliography Draft   | 2026-12-06                    | 2026/12/08 |
+| Second Meeting with Supervisor                     | 2026-12-17                    | 2026/12/17 |
+| Product Completed                                  | 2027-01-31                    | 2027/02/02 |
+| Report Draft Submission                            | 2027-02-05                    | 2027/02/08 |
+| Third Meeting with Supervisor                      | 2027-02-15                    | 2027/02/15 |
+| Showcase                                           | 2027-03-11                    | 2027/03/11 |
+| Final Submission                                   | 2027-03-12                    | 2027/03/16 |
 
 ### Personal Schedules
 
