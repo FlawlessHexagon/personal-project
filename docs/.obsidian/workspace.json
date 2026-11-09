@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -285,16 +285,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26286a1ae24fff53",
+  "active": "9db3ffa2b74f9e1b",
   "lastOpenFiles": [
-    "plans/research-plan.md",
     "plans/action-plan.md",
-    "temp.md",
+    "plans/research-plan.md",
     "plans/phases/phase-04.md",
-    "project.md",
-    "definition/success-criteria.md",
     "bibliography-raw.md",
     "definition/project-definition.md",
+    "temp.md",
+    "project.md",
+    "definition/success-criteria.md",
     "document-process/proc-action-plan-framework.md",
     "document-process/proc-action-plan-development.md",
     "Untitled.canvas",
