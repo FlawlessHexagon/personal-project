@@ -12,7 +12,7 @@ Develop and finalize clear, measurable success criteria supported by relevant re
 
 2. Conduct Research
 
-> Investigate relevant technical approaches and evaluation methods, documenting findings in the [process document](../../process/proc-success-criteria-development.md).
+> Investigate relevant technical approaches and evaluation methods, documenting findings in the [process document](proc-success-criteria-development.md).
 
 3. Outline Success Criteria
 

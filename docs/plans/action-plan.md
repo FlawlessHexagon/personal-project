@@ -23,8 +23,8 @@
 
 | **ID**   | **Title**                                                                | **Description** | **Linked Success Criteria** | **Target Completion Date** | **Status**  |
 | -------- | ------------------------------------------------------------------------ | --------------- | --------------------------- | -------------------------- | ----------- |
-| AP-02-01 | Research on-device models, runtimes, and quantization options            |                 |                             | 2026-11-09                 | Not Started |
-| AP-02-02 | Research persistent memory, context management, and grounding approaches |                 |                             | 2026-11-12                 | Not Started |
+| AP-02-01 | Research on-device models, runtimes, and quantization options            |                 | SC-04, SC-05, SC-06, SC-07  | 2026-11-09                 | Not Started |
+| AP-02-02 | Research persistent memory, context management, and grounding approaches |                 | SC-04, SC-07                | 2026-11-12                 | Not Started |
 | AP-02-03 | Define evaluation tasks, test conditions, and thresholds                 |                 |                             | 2026-11-15                 | Not Started |
 | AP-02-04 | Build an experimental harness and establish baseline results             |                 |                             | 2026-11-22                 | Not Started |
 | AP-02-05 | Experiment with model and harness configurations                         |                 |                             | 2026-12-02                 | Not Started |

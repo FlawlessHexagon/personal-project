@@ -42,4 +42,4 @@
 
 ## d) Final Project Definition
 
-The selected title, goals, purpose, and intended audience are consolidated in the [project definition](../definition/project-definition.md).
+The selected title, goals, purpose, and intended audience are consolidated in the [project definition](project-definition.md).
