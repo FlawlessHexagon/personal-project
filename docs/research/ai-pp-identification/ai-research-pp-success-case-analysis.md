@@ -4,7 +4,7 @@
 
 ## a) Scope and Evidence Limits
 
-- Dataset: 64 records in [success-cases.json](pp-success-case/ai-research-success-cases.json)
+- Dataset: 64 records in [success-cases.json](ai-research-success-cases.json)
 - Evidence status: all 64 cases are showcase-only
 - Public IB scores: none
 - Supported conclusions: completion patterns, documented practices, and visible project characteristics

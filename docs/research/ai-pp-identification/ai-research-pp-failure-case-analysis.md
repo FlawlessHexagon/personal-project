@@ -4,7 +4,7 @@
 
 ## a) Scope and Evidence Limits
 
-- Dataset: 2 records in [failure-cases.json](pp-failure-case/ai-research-failure-cases.json)
+- Dataset: 2 records in [failure-cases.json](ai-research-failure-cases.json)
 - Case 1: lower achievement, with a public score of 10/24
 - Case 2: partial success-criteria failure, with no public score
 - The sample is too small for broad conclusions.
